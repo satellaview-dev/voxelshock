@@ -1,5 +1,5 @@
-# voxelshock
-minecraft modpack that focuses on worldgen, movement, and challenging combat without being unfairly difficult (hopefully)
+# VOXELSHOCK
+minecraft forge modpack that focuses on worldgen, movement, and challenging combat without being unfairly difficult (hopefully)
 
 
 
