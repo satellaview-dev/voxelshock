@@ -1,8 +1,6 @@
 ![Logo for VOXELSHOCK modpack](/title2.png)
 
-##minecraft forge modpack that focuses on exploration and challenging combat without being unfairly difficult (hopefully)
-
-#License and other information
+# License and other information
 
 All of the mods in this modpack are from Modrinth.
 (if there are mods here not avaliable on the site, please tell me and I will remove them.)
