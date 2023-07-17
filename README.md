@@ -3,7 +3,7 @@ minecraft forge modpack that focuses on worldgen, movement, and challenging comb
 
 
 
-# Modlist (as of v1.12a)
+# Modlist (as of v1.2a)
 ```
 adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  adaptive_performance_tweaks_mods_1.19.3-7.1.2.jar
