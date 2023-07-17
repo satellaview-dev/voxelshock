@@ -1,4 +1,4 @@
-[Logo for VOXELSHOCK modpack](/title2.png)
+![Logo for VOXELSHOCK modpack](/title2.png)
 
 minecraft forge modpack that focuses on exploration and challenging combat without being unfairly difficult (hopefully)
 
