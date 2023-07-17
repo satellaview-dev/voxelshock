@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "twilightforest:block_and_chain"
+  ],
+  "incompatible": [
+    "minecraft:silk_touch"
+  ]
+}

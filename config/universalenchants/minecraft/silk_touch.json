@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "twilightforest:block_and_chain"
+  ],
+  "incompatible": [
+    "minecraft:fortune",
+    "minecraft:luck_of_the_sea",
+    "vanillatweaks:blazing"
+  ]
+}

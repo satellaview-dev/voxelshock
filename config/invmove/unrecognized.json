@@ -1,0 +1,38 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,
+    "mod.adrenix.nostalgic.client.screen.NostalgicPauseScreen": true,
+    "potionstudios.byg.client.gui.biomepedia.screen.BiomepediaHomeScreen": true,
+    "dlovin.inventoryhud.gui.config.InventoryConfigScreen": true,
+    "com.wildfire.gui.screen.WildfirePlayerListScreen": true,
+    "com.wildfire.gui.screen.WardrobeBrowserScreen": true,
+    "com.wildfire.gui.screen.WildfireBreastCustomizationScreen": true,
+    "com.wildfire.gui.screen.WildfireCharacterSettingsScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.TravelersBackpackScreen": true,
+    "com.legacy.blue_skies.client.gui.screen.ArcsScreen": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "de.maxhenkel.voicechat.gui.group.JoinGroupScreen": true,
+    "gg.essential.gui.emotes.EmoteWheel": true,
+    "gg.essential.gui.screenshot.components.ScreenshotBrowser": true,
+    "ichttt.mods.firstaid.client.gui.GuiHealthScreen": true,
+    "gg.essential.gui.friends.SocialMenu": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
+    "de.maxhenkel.voicechat.gui.volume.AdjustVolumesScreen": true,
+    "de.maxhenkel.voicechat.gui.audiodevice.SelectMicrophoneScreen": true,
+    "gg.essential.gui.wardrobe.Wardrobe": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "forge.com.gitlab.cdagaming.craftpresence.config.gui.MainGui": true
+  },
+  "hideBackground": {
+    "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,
+    "com.wildfire.gui.screen.WildfirePlayerListScreen": true,
+    "com.wildfire.gui.screen.WardrobeBrowserScreen": true,
+    "com.wildfire.gui.screen.WildfireBreastCustomizationScreen": true,
+    "com.wildfire.gui.screen.WildfireCharacterSettingsScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.TravelersBackpackScreen": true,
+    "com.legacy.blue_skies.client.gui.screen.ArcsScreen": true,
+    "ichttt.mods.firstaid.client.gui.GuiHealthScreen": true
+  }
+}

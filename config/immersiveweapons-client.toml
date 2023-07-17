@@ -1,0 +1,17 @@
+
+["Client Configuration"]
+
+	["Client Configuration".Graphics]
+		#Set the number of particles produced by the smoke grenade
+		#The server may choose to override this value to encourage fairness. - Default 96
+		smoke_grenade_particles = 96
+		#Render smoke grenade particles at 66% of the regular size, spawn 3x more, and add translucency.
+		#This will negatively impact performance, but make smoke grenades appear more realistic. - Default false
+		fancy_smoke_grenade_particles = false
+
+	["Client Configuration".Sounds]
+		#Enable the Tesla Armor effect sound - Default true
+		tesla_armor_effect_sound = true
+		#Set the range of the Panic Alarm's sound - Default 48
+		panic_alarm_range = 48
+

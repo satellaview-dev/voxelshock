@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "blue_skies:spike_shield",
+    "blue_skies:crushing_hammer",
+    "twilightforest:block_and_chain",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "minecraft:impaling",
+    "minecraft:bane_of_arthropods"
+  ]
+}

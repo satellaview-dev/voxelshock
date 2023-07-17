@@ -1,0 +1,74 @@
+
+["Server Configuration"]
+
+	["Server Configuration".Miscellaneous]
+		#Enable bullets breaking glass - Default true
+		bullets_break_glass = true
+		#Enable the Tiltros dimension portal - Default true
+		tiltros_dimension_accessible_via_portal = true
+		#Force the number of particles produced by the smoke grenade to be the same on all clients.
+		#A value of -1 will not force any value, and will allow clients to use their own values.
+		#Setting this to a high value may cause clients to lag. - Default -1
+		force_smoke_grenade_particles = -1
+
+	["Server Configuration"."Entity Settings"]
+
+		["Server Configuration"."Entity Settings".General]
+			#Set the range for checking criteria of the discovery advancement (value is squared) - Default 50
+			#Lowering this value may improve server performance.
+			discovery_advancement_range = 50
+
+		["Server Configuration"."Entity Settings"."Celestial Tower"]
+			#Set the spawn checking radius for the Celestial Tower.
+			#Higher values increase the effectiveness of Celestial Lanterns - Default 256
+			#
+			celestial_tower_spawn_checking_radius = 256
+			#Multiplier to change the wave size from Celestial Tower summons.
+			#Set less than 1 to reduce, greater than 1 to increase.
+			#Increasing the wave size will negatively affect the server ticks in Tiltros. - Default 1.0
+			celestial_tower_wave_size_modifier = 1.0
+
+	["Server Configuration"."Weapon Settings"]
+
+		["Server Configuration"."Weapon Settings".General]
+			#Set the chance for a fired bullet to be critical - Default 0.1
+			#Range: 0.0 ~ 1.0
+			gun_crit_chance = 0.1
+			#Allow infinity-type enchantments to work on all ammo tiers.
+			#By default, it is restricted to cobalt and lower tiers. - Default false
+			#
+			allow_infinite_ammo_on_all_tiers = false
+
+		["Server Configuration"."Weapon Settings"."Flintlock Pistol"]
+			#Set the velocity of bullets fired by the Flintlock Pistol - Default 2.5
+			flintlock_pistol_fire_velocity = 2.5
+			#Set the inaccuracy of bullets fired by the Flintlock Pistol - Default 1.75
+			flintlock_pistol_fire_inaccuracy = 1.75
+
+		["Server Configuration"."Weapon Settings".Blunderbuss]
+			#Set the velocity of bullets fired by the Blunderbuss - Default 1.7
+			blunderbuss_fire_velocity = 1.7
+			#Set the inaccuracy of bullets fired by the Blunderbuss - Default 2.0
+			blunderbuss_fire_inaccuracy = 2.0
+
+		["Server Configuration"."Weapon Settings".Musket]
+			#Set the velocity of bullets fired by the Musket - Default 4.0
+			musket_fire_velocity = 4.0
+			#Set the inaccuracy of bullets fired by the Musket - Default 0.15
+			musket_fire_inaccuracy = 0.15
+
+		["Server Configuration"."Weapon Settings"."Meteor Staff"]
+			#Set the maximum range in blocks of the Meteor Staff - Default 100
+			#Range: > 0
+			meteor_staff_max_use_range = 100
+			#Set the radius of the explosion created by the Meteor Staff - Default 3.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			meteor_staff_explosion_radius = 3.0
+			#Set whether the Meteor Staff explosion breaks blocks - Default false
+			meteor_staff_explosion_break_blocks = false
+
+		["Server Configuration"."Weapon Settings"."Cursed Sight Staff"]
+			#Set the maximum range in blocks of the Cursed Sight Staff - Default 50
+			#Range: > 0
+			cursed_sight_staff_max_use_range = 50
+

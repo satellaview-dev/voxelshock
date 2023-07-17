@@ -1,0 +1,6 @@
+{
+  "disableReturnToMainMenu": false,
+  "catchInitializationCrashes": true,
+  "debugModIdentification": false,
+  "crashLimit": 20
+}

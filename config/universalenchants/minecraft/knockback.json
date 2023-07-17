@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "blue_skies:spike_shield",
+    "blue_skies:crushing_hammer",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident",
+    "$minecraft:universal_enchants_shield"
+  ],
+  "incompatible": []
+}
