@@ -1,7 +1,8 @@
-# VOXELSHOCK
-minecraft forge modpack that focuses on worldgen, movement, and challenging combat without being unfairly difficult (hopefully)
+[Logo for VOXELSHOCK modpack](/title2.png)
 
+minecraft forge modpack that focuses on exploration and challenging combat without being unfairly difficult (hopefully)
 
+[License and other information](/LICENSE)
 
 # Modlist (as of v1.2a)
 ```
