@@ -1,4 +1,8 @@
 ![Logo for VOXELSHOCK modpack](/title2.png)
+# READ THE GUIDE.
+https://github.com/satellaview-dev/voxelshock/wiki/Installation--%E2%80%90--Reference-page-1
+
+
 
 # License and other information
 
