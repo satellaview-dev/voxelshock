@@ -4,10 +4,10 @@
 	#Inventory HUD mini mode
 	invMini = false
 	#Inventory HUD vertical mode
-	invVert = true
+	invVert = false
 	#Inventory HUD alpha
 	#Range: 0 ~ 100
-	invAlpha = 0
+	invAlpha = 7
 	#Toggle on by default
 	byDefault = false
 	#Animate recently picked up items
@@ -25,16 +25,16 @@
 	#Show/Hide armor
 	showArmor = false
 	#Show/Hide armor
-	showMain = true
+	showMain = false
 	#Show/Hide armor
 	showOff = true
 	#Show/Hide armor
 	showArrows = true
 	#Show/Hide armor
-	showInv = true
+	showInv = false
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
-	armView = "PERCENTAGE"
+	armView = "DAMAGE_LEFT"
 	#Show item durability bar
 	armBars = false
 	#Move all items at once or each one
@@ -50,7 +50,7 @@
 #Settings for Potions HUD
 [potionshud]
 	#Is Potions HUD enabled
-	Potions = true
+	Potions = false
 	#Potion HUD alpha
 	#Range: 0 ~ 100
 	potAlpha = 100

@@ -14,11 +14,11 @@
     "detectWorldData": true,
     "clientId": "450485984333660181",
     "defaultIcon": "grass",
-    "enableJoinRequests": false,
+    "enableJoinRequests": true,
     "partyPrivacyLevel": 1,
     "preferredClientLevel": 3,
     "resetTimeOnInit": false,
-    "autoRegister": false
+    "autoRegister": true
   },
   "biomeSettings": {
     "fallbackBiomeIcon": "unknown",
@@ -41,6 +41,27 @@
     "fallbackServerName": "Minecraft Server",
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
+      "voxelshock.satellaview.dev": {
+        "textOverride": "Playing on {server.motd.raw}",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {
+            "default": {
+              "label": "Example Text",
+              "url": "https://google.com"
+            }
+          }
+        }
+      },
       "default": {
         "textOverride": "Playing on {server.motd.raw}"
       }
@@ -61,10 +82,10 @@
     }
   },
   "advancedSettings": {
-    "enablePerGui": false,
-    "enablePerItem": false,
+    "enablePerGui": true,
+    "enablePerItem": true,
     "enablePerEntity": false,
-    "formatWords": true,
+    "formatWords": false,
     "debugMode": false,
     "verboseMode": false,
     "refreshRate": 2,
@@ -167,9 +188,9 @@
       "useAsMain": false,
       "details": "{getFirst(menu.message, dimension.message)}",
       "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
-      "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
+      "largeImageKey": "voxelshock.satellaview.dev",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
-      "smallImageKey": "{getFirst(server.icon, pack.icon)}",
+      "smallImageKey": "{getFirst(server.icon, dimension.icon)}",
       "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
@@ -183,7 +204,7 @@
     "dynamicIcons": {
       "satellaview_dev": "https://mc-heads.net/avatar/e4686ce691734104bbcc814529f8d0b1",
       "default": "https://via.placeholder.com/256.png",
-      "91834567-9988-48db-bfc0-257786db81d2.essential-sps": "https://api.mcsrvstat.us/icon/91834567-9988-48db-bfc0-257786db81d2.essential-sps"
+      "voxelshock.satellaview.dev": "https://api.mcsrvstat.us/icon/voxelshock.satellaview.dev"
     },
     "dynamicVariables": {
       "default": "Example Text",
