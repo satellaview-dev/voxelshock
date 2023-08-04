@@ -11,7 +11,7 @@ All of the mods in this modpack are from Modrinth.
 This modpack is free and open source for everyone to modify, redistribute as their own, or as part of a larger project.
 I do not own any of the mods in this pack and am only able to share this because of the hard work of the mod developers.
 
-# Modlist (as of v1.2a)
+# Modlist (as of v1.4a)
 ```
 adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  adaptive_performance_tweaks_mods_1.19.3-7.1.2.jar
@@ -30,11 +30,11 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  BetterAnimationsCollection-v5.0.0-1.19.3-Forge.jar
  bettercombat-forge-1.7.1+1.19.3.jar
  BetterCompatibilityChecker-1.1.0-build.41+mc1.19.3.jar
- blue_skies-1.19.3-1.3.22.jar
  Boat-Item-View-Forge-1.19.x-0.0.4.jar
  Bookshelf-Forge-1.19.3-17.1.6.jar
  calmmornings-1.19.3-2.0.2.jar
  canary-mc1.19.3-0.2.6.jar
+ catalogue-1.7.0-1.19.3.jar
  cavenoise-0.0.4-1.19.3.jar
  caveore-1.19.3-3.3.jar
  Chunky-1.3.53.jar
@@ -45,6 +45,7 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  combatroll-forge-1.1.5+1.19.3.jar
  comforts-forge-6.1.2+1.19.3.jar
  configured-2.1.1-1.19.3.jar
+ controllable-0.17.0-1.19.3.jar
  Controlling-forge-1.19.3-10.0+2.jar
  CorgiLib-forge-1.19.3-2.0.0.0.jar
  craftingtweaks-forge-1.19.3-16.0.2.jar
@@ -53,18 +54,20 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  DamageVignette-2.0.1-forge+mc1.19.x.jar
  defaultoptions-forge-1.19.3-16.0.2.jar
  DistantFriends-1.19.3-0.3.0.jar
+ DistantHorizons-1.6.10a-1.19.3.jar
  dungeons-and-taverns-2.0.2.jar
  Durability101-forge-1.19.3-0.0.4.jar
  dynamiccrosshair-5.4+1.19.3-forge.jar
+ dynamiccrosshair-compat-3.1.1+1.19.3.jar
  dynamic_player_progression_and_player_difficulty_1.19.3-4.1.0.jar
  e4mc-3.2.0+1.19.4-forge.jar
  EasyMagic-v5.0.1-1.19.3-Forge.jar
  edf-remastered-4.2.0.jar
  EnchantmentDescriptions-Forge-1.19.3-14.0.7.jar
- endofherobrine-1.19.3-1.0.7.1.jar
  endrem_forge-5.2.2-R-1.19.3.jar
  entityculling-forge-1.6.1-mc1.19.3.jar
- Essential-forge_1-18-2.jar
+ entity_model_features_forge_1.19.3-0.2.13.jar
+ entity_texture_features_forge_1.19.3-4.4.4.jar
  explorify-forge-1.19-1.3.0.jar
  EyesInTheDarkness-1.19.3-1.3.7.jar
  fakeplayers-1.19.3-0.51.jar
@@ -90,6 +93,7 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  InvMove-1.19-0.8.2-Forge.jar
  itlt-1.19.3-2.1.5-beta1.jar
  Jade-1.19.3-forge-9.4.1.jar
+ justzoom_forge_1.0.1-1_MC_1.19.jar
  konkrete_forge_1.6.1_MC_1.19.3.jar
  kotlinforforge-4.4.0-all.jar
  LeavesBeGone-v5.0.0-1.19.3-Forge.jar
@@ -118,24 +122,29 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  OverpoweredMending-1.19.3-2.9.0.jar
  ParCool-1.19.3-3.0.1.0-R.jar
  parry-2.4.3.jar
+ physics-mod-pro-v152-forge-1.19.3.jar.disabled
  player-animation-lib-forge-1.0.2+1.19.3.jar
  Prism-1.19.3-forge-1.0.3.jar
  PuzzlesLib-v5.0.33-1.19.3-Forge.jar
  radon-0.8.2.jar
  raised-forge-1.19.3-1.2.3.jar
  RallyHealth-forge-1.19.3-1.3.1.jar
+ ReSkin-2.6.1-universal.jar
  rubidium-0.6.3.jar
  rubidium-extra-0.4.17+mc1.19.3-build.73.jar
  sanguine-0.3.2.jar
  saturn-mc1.19.3-0.0.4.jar
  Searchables-forge-1.19.3-1.0.1.jar
+ SekCLib-1.19-1.19.3-0.4.3-universal.jar
  sereneseasonfix-1.19.2-1.0.8.jar
  SereneSeasons-1.19.3-8.2.0.29.jar
+ simplyswords-forge-1.43.0-1.19.3.jar
 'smoothboot(reloaded)-mc1.19.3-0.0.3.jar'
  smoothchunk-1.19.3-3.0.jar
  soundphysics-forge-1.19.3-1.1.0.jar
  spark-1.10.37-forge.jar
  spawn-animations-1.9.1.jar
+ squaremap-forge-mc1.19.3-1.1.10.jar
  Structory_1.19.3_v1.3.1a.jar
  structure_gel-1.19.3-2.9.0.jar
  StylishEffects-v5.0.0-1.19.3-Forge.jar
@@ -160,4 +169,3 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  wso16-forge-1.1.jar
  ydmscorex-forge-1.19.3-1.0.1.jar
  YungsApi-1.19.3-Forge-3.9.0.jar
-```
