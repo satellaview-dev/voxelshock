@@ -103,7 +103,7 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  mahoutsukai-1.19.3-v1.34.42.jar
  majrusz-library-1.19.3-3.3.0.jar
  majruszs-difficulty-1.19.3-1.7.3.jar
- manic-1.0.3.jar
+ manic-1.0.3.jar (https://github.com/VisiVersa/Manic)
  memoryleakfix-forge-1.17+-1.0.0.jar
  MindfulDarkness-v5.0.2-1.19.3-Forge.jar
  mmoparties-2.4.2.1.19.jar
@@ -132,7 +132,7 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  ReSkin-2.6.1-universal.jar
  rubidium-0.6.3.jar
  rubidium-extra-0.4.17+mc1.19.3-build.73.jar
- sanguine-0.3.2.jar
+ sanguine-0.3.2.jar (https://github.com/VisiVersa/Sanguine)
  saturn-mc1.19.3-0.0.4.jar
  Searchables-forge-1.19.3-1.0.1.jar
  SekCLib-1.19-1.19.3-0.4.3-universal.jar
