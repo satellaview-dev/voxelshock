@@ -58,7 +58,7 @@
 		max_columns = 5
 		#Screen side to render status effects on.
 		#Allowed Values: LEFT, RIGHT
-		screen_side = "RIGHT"
+		screen_side = "LEFT"
 		#Offset on x-axis.
 		#Range: > 0
 		offset_x = 3
@@ -67,14 +67,14 @@
 		widget_space_y = 1
 		#Alpha value for effect widgets.
 		#Range: 0.0 ~ 1.0
-		widget_alpha = 0.85
+		widget_alpha = 0.0
 		#Space between individual effect widgets on x-axis.
 		#Range: > 0
 		widget_space_x = 1
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
-		renderer_type = "GUI_COMPACT"
+		renderer_type = "NONE"
 		#Offset on y-axis.
 		#Range: > 0
 		offset_y = 3
@@ -93,7 +93,7 @@
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		amplifier_color = "WHITE"
 		#Should the effect icon start to blink when the effect is running out.
-		blinking_alpha = true
+		blinking_alpha = false
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		quality_border = false
 		#Show duration for ambient effects.
@@ -104,7 +104,7 @@
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
 		effect_amplifier = "TOP_RIGHT"
 		#Should ambient effect widgets have a cyan colored border.
-		ambient_border = true
+		ambient_border = false
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
@@ -112,7 +112,7 @@
 
 	[widgets.inventory_full_size]
 		#Should the effect icon start to blink when the effect is running out.
-		blinking_alpha = true
+		blinking_alpha = false
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		quality_border = false
 		#Effect name color. Setting this to "EFFECT" will use potion color.
@@ -120,9 +120,9 @@
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		name_color = "WHITE"
 		#Show duration for ambient effects.
-		ambient_duration = true
+		ambient_duration = false
 		#Should ambient effect widgets have a cyan colored border.
-		ambient_border = true
+		ambient_border = false
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
@@ -137,7 +137,7 @@
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		amplifier_color = "WHITE"
 		#Should the effect icon start to blink when the effect is running out.
-		blinking_alpha = true
+		blinking_alpha = false
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		quality_border = false
 		#Show duration for ambient effects.
@@ -146,7 +146,7 @@
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
 		effect_amplifier = "TOP_RIGHT"
 		#Should ambient effect widgets have a cyan colored border.
-		ambient_border = true
+		ambient_border = false
 		#Draw harmful effects on a separate line from beneficial ones. This is turned on in vanilla.
 		separate_effects = false
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
@@ -163,7 +163,7 @@
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		amplifier_color = "WHITE"
 		#Should the effect icon start to blink when the effect is running out.
-		blinking_alpha = true
+		blinking_alpha = false
 		#Display effect duration more compact, allows for always showing duration, even when it is very long.
 		compact_duration = false
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
@@ -174,7 +174,7 @@
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
 		effect_amplifier = "TOP_RIGHT"
 		#Should ambient effect widgets have a cyan colored border.
-		ambient_border = true
+		ambient_border = false
 		#Draw harmful effects on a separate line from beneficial ones. This is turned on in vanilla.
 		separate_effects = false
 		#Effect duration color. Setting this to "EFFECT" will use potion color.

@@ -9,11 +9,11 @@
     "creative4": "Creative",
     "creative5": "None",
     "creative6": "Creative",
-    "hal1": "Both",
+    "hal1": "None",
     "hal2": "None",
     "hal3": "None",
-    "hal4": "Both",
-    "nuance1": "None",
+    "hal4": "None",
+    "nuance1": "Both",
     "nuance2": "None",
     "piano1": "Both",
     "piano2": "None",
@@ -306,9 +306,9 @@
     "five": "None",
     "pigstep": "None",
     "end": "Both",
-    "end_creative1": "Creative",
-    "end_creative2": "Creative",
-    "end_creative3": "Creative",
-    "end_creative4": "Creative"
+    "end_creative1": "None",
+    "end_creative2": "None",
+    "end_creative3": "None",
+    "end_creative4": "None"
   }
 }

@@ -21,7 +21,7 @@ optionsButton = true
 			drawResolution = "BLOCK"
 			# The radius of the mod's render distance. (measured in chunks) 
 			#
-			lodChunkRenderDistance = 128
+			lodChunkRenderDistance = 64
 			# This indicates how detailed fake chunks will represent 
 			# overhangs, caves, floating islands, ect. 
 			# Higher options will make the world more accurate, but will increase memory and GPU usage. 
@@ -31,7 +31,7 @@ optionsButton = true
 			# HIGH: uses at max 8 columns per position. 
 			#
 			# Lowest Quality: LOW Highest Quality: HIGH
-			verticalQuality = "MEDIUM"
+			verticalQuality = "LOW"
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.
@@ -39,7 +39,7 @@ optionsButton = true
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.
-			horizontalQuality = "MEDIUM"
+			horizontalQuality = "LOWEST"
 			# This determines how lod level drop off will be done. 
 			#
 			# SMOOTH_DROPOFF: 
@@ -87,7 +87,7 @@ optionsButton = true
 			# If true disable Minecraft's fog. 
 			#
 			# Experimental! Mod support is not guarantee.
-			disableVanillaFog = true
+			disableVanillaFog = false
 
 			[client.graphics.fogQuality.advancedFog]
 				# Where should the far fog start? 
@@ -285,7 +285,7 @@ optionsButton = true
 		#
 		# Note that in server, distant generation is always off. 
 		#
-		enableDistantGeneration = false
+		enableDistantGeneration = true
 		distanceGenerationMode = "FEATURES"
 		# How should block and sky lights be processed for distant generation? 
 		#
@@ -321,7 +321,7 @@ optionsButton = true
 		# and NEAR_FIRST when connected to a server. 
 		#
 		# This shouldn't affect performance.
-		generationPriority = "BALANCED"
+		generationPriority = "AUTO"
 		# When generating fake chunks, what blocks should be ignored? 
 		# Ignored blocks don't affect the height of the fake chunk, but might affect the color. 
 		# So using BOTH will prevent snow covered blocks from appearing one block too tall, 

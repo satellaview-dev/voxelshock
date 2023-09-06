@@ -28,6 +28,12 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = setbuttonlabel
+  value = {"placeholder":"drippy_java_vm"}
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
   seconds = 5.0
   onlyfirsttime = true
   fadein = true
@@ -203,7 +209,7 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 186
   width = 268
   action = deep_customization_element:title_screen_forge_top
@@ -270,18 +276,13 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
-  delayappearanceseconds = 2.0
   path = title2.png
-  fadein = true
-  fadeinspeed = 1.0
+  orientation = mid-centered
   x = -160
   width = 320
   action = addtexture
   actionid = 5d7f9e37-bc4d-401f-9873-b0e8f4899cad1689508305424
   y = -50
-  delayappearance = true
-  delayappearanceeverytime = false
   height = 100
 }
 
@@ -290,38 +291,57 @@ customization {
   enable_scrolling = true
   shadow = false
   scale = 5.0
-  source = 1.4a
+  source = v1.6a
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -95
+  x = -96
   width = 200
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 4b5619a3-f6b4-4533-b1b4-f53708d0693a1689735813176
-  y = -138
+  y = -298
   alignment = centered
   height = 60
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   basecolor = #ffff00
   shadow = true
   delayappearanceseconds = 5.0
   splashfilepath = splashtexts.txt
   rotation = 0.0
-  scale = 1.0
-  refresh = false
+  scale = 2.0
+  refresh = true
   bouncing = true
   fadein = true
   vanilla-like = false
   fadeinspeed = 1.0
-  x = 294
+  x = -54
   actionid = 856ba9b7-a33c-46c5-a34c-b701d9be7e9a1690807965292
   action = addsplash
-  y = 299
+  y = 95
   delayappearance = true
   delayappearanceeverytime = false
+}
+
+customization {
+  orientation = top-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"drippy_cpu_info"} | {"placeholder":"drippy_gpu_info"}%n%{"placeholder":"drippy_java_version"} | {"placeholder":"drippy_java_vm"}%n%{"placeholder":"drippy_opengl_version"} | {"placeholder":"drippy_operating_system"}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -319
+  width = 639
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 63e21fd4-4b1e-445b-b3c8-22ff3ccf21211693856450313
+  y = 0
+  alignment = centered
+  height = 40
 }
 

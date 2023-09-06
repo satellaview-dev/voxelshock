@@ -7,7 +7,7 @@
 	#The name of the modpack
 	modpackName = "VOXELSHOCK"
 	#The version of the modpack
-	modpackVersion = "1.4a"
+	modpackVersion = "v1.6a"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

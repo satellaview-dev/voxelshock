@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:dingstorm's base:DS:55:72:-516:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:structure1:S:97:129:-902:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tower:TW:59:146:-1029:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Third City:TC:-529:-50:-1780:4:false:0:gui.xaero_default:false:0:0:false

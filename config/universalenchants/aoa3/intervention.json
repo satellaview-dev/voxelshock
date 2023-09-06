@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:unstackable",
+    "twilightforest:block_and_chain"
+  ],
+  "incompatible": []
+}

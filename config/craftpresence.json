@@ -12,7 +12,7 @@
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
-    "clientId": "450485984333660181",
+    "clientId": "1139656216155533433",
     "defaultIcon": "grass",
     "enableJoinRequests": true,
     "partyPrivacyLevel": 1,
@@ -41,27 +41,6 @@
     "fallbackServerName": "Minecraft Server",
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
-      "voxelshock.satellaview.dev": {
-        "textOverride": "Playing on {server.motd.raw}",
-        "data": {
-          "enabled": true,
-          "useAsMain": false,
-          "details": "",
-          "gameState": "",
-          "largeImageKey": "",
-          "largeImageText": "",
-          "smallImageKey": "",
-          "smallImageText": "",
-          "startTimestamp": "",
-          "endTimestamp": "",
-          "buttons": {
-            "default": {
-              "label": "Example Text",
-              "url": "https://google.com"
-            }
-          }
-        }
-      },
       "default": {
         "textOverride": "Playing on {server.motd.raw}"
       }
@@ -83,13 +62,13 @@
   },
   "advancedSettings": {
     "enablePerGui": true,
-    "enablePerItem": true,
-    "enablePerEntity": false,
-    "formatWords": false,
+    "enablePerItem": false,
+    "enablePerEntity": true,
+    "formatWords": true,
     "debugMode": false,
     "verboseMode": false,
     "refreshRate": 2,
-    "allowPlaceholderPreviews": false,
+    "allowPlaceholderPreviews": true,
     "guiSettings": {
       "fallbackGuiIcon": "unknown",
       "guiData": {
@@ -180,21 +159,29 @@
     "showLoggingInChat": false,
     "stripExtraGuiElements": false,
     "renderTooltips": true,
-    "configKeyCode": 96
+    "configKeyCode": 332
   },
   "displaySettings": {
     "presenceData": {
       "enabled": true,
       "useAsMain": false,
-      "details": "{getFirst(menu.message, dimension.message)}",
-      "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
-      "largeImageKey": "voxelshock.satellaview.dev",
+      "details": "In {screen.name}",
+      "gameState": "Players:",
+      "largeImageKey": "{getFirst(server.icon, pack.icon)}",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
-      "smallImageKey": "{getFirst(server.icon, dimension.icon)}",
-      "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
+      "smallImageKey": "playericon",
+      "smallImageText": "Health: {player.health.current}/{player.health.max}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
       "buttons": {
+        "button_2": {
+          "label": "Join Game",
+          "url": "voxelshock.satellaview.dev"
+        },
+        "button_1": {
+          "label": "Download",
+          "url": "https://github.com/satellaview-dev/voxelshock/releases"
+        },
         "default": {
           "label": "Example Text",
           "url": "https://google.com"
@@ -204,7 +191,8 @@
     "dynamicIcons": {
       "satellaview_dev": "https://mc-heads.net/avatar/e4686ce691734104bbcc814529f8d0b1",
       "default": "https://via.placeholder.com/256.png",
-      "voxelshock.satellaview.dev": "https://api.mcsrvstat.us/icon/voxelshock.satellaview.dev"
+      "voxelshock.satellaview.dev": "https://api.mcsrvstat.us/icon/voxelshock.satellaview.dev",
+      "playericon": "https://mc-heads.net/avatar/{player.name}"
     },
     "dynamicVariables": {
       "default": "Example Text",

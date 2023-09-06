@@ -95,7 +95,7 @@
 
 ["Other Configuration"]
 	#Disable Double-Tapping For Dodge. Please Use Dodge Key instead
-	disable_double_tapping = false
+	disable_double_tapping = true
 	#Disable Crawl in air (experimental)
 	disable_crawl_in_air = false
 	#Disable Vault in air (experimental)
@@ -113,7 +113,7 @@
 	substitute_sprint = false
 	#Color theme of Setting GUI
 	#Allowed Values: Red, Green, Blue, Yellow, Black
-	gui_color_theme = "Blue"
+	gui_color_theme = "Red"
 	#Infinite Stamina(this needs a permission from server, even if it is on single player's game. normally permitted)
 	#Please check 'parcool-server.toml' in 'serverconfig' directory
 	infinite_stamina = false

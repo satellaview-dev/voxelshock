@@ -1,0 +1,11 @@
+
+[General]
+	#Enables/Disables debug mode logging [false/true|default:false]
+	isDebug = false
+	#Determines the difficulty level of the recipes. On easy mode all upgrades take ingots, and repair tools. On hard, only blocks upgrade tools, and only non-game-breaking repair occurs [easy/normal/hard|default:normal]
+	difficulty = "normal"
+	#Enables/Disables using Blocks of metal to fully repair tools while on normal mode (disables Block usage on Normal mode) [false/true|default:true]
+	repairOnNormal = true
+	#Enables/Disables fully repairing tools while on hard mode [false/true|default:false]
+	repairOnHard = false
+

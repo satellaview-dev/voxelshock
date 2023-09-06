@@ -25,17 +25,17 @@
   },
   "render_settings": {
     "fog_distance": 6,
-    "fog_start": 100,
+    "fog_start": 75,
     "multi_dimension_fog_control": true,
     "dimensionFogDistance": {
       "minecraft:overworld": 0,
-      "minecraft:the_nether": 0,
+      "minecraft:the_nether": 4,
       "minecraft:the_end": 0
     },
     "use_linear_flat_color_blender": false,
     "light_updates": true,
     "item_frame": true,
-    "armor_stand": true,
+    "armor_stand": false,
     "painting": true,
     "piston": true,
     "beacon_beam": true,
@@ -44,10 +44,10 @@
     "player_name_tag": true
   },
   "extra_settings": {
-    "overlay_corner": "TOP_RIGHT",
+    "overlay_corner": "BOTTOM_RIGHT",
     "text_contrast": "SHADOW",
     "show_fps": true,
-    "show_f_p_s_extended": true,
+    "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": true,
     "use_adaptive_sync": true,

@@ -1,0 +1,115 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 140
+  width = 360
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = e44480af-4770-47f4-971f-c764a06035e61693855816680
+  y = 135
+  height = 90
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = dfb6700b-51bf-4293-ae15-2a0a5d5e469a1693855816681
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = #FF4900
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 140
+  width = 360
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 718749c4-89ca-44a6-9321-b6c36edb27101693855816681
+  y = 294
+  height = 10
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 1.0
+  path = title1.png
+  fadein = true
+  fadeinspeed = 5.0
+  x = -160
+  width = 320
+  action = addtexture
+  actionid = 78e942e8-607d-4703-b655-5b51df57ce891693855893726
+  y = -50
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 100
+}
+
+customization {
+  orientation = bottom-centered
+  background_color = #FFFFFF
+  x = -100
+  width = 200
+  bar_color = #FF4900
+  action = custom_layout_element:drippy_custom_loading_bar
+  actionid = bce5e5a4-1f38-433e-918c-163464625eec1693856032099
+  y = -20
+  progress_for_element_orientation = false
+  direction = right
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"drippy_gl_percent"}%n%{"placeholder":"drippy_fps"}fps%n%{"placeholder":"drippy_cpu_info"}%n%{"placeholder":"drippy_gpu_info"}%n%{"placeholder":"drippy_java_version"}%n%{"placeholder":"drippy_java_vm"}%n%{"placeholder":"drippy_opengl_version"}%n%{"placeholder":"drippy_operating_system"}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -133
+  width = 264
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 2160c1a3-4f2d-4a15-bfd9-3dada36ea86d1693856134507
+  y = 15
+  alignment = centered
+  height = 96
+}
+
+customization {
+  orientation = bottom-centered
+  background_color = #FFFFFF
+  x = -100
+  width = 200
+  bar_color = #000000
+  action = custom_layout_element:drippy_generic_progress_bar
+  actionid = 7734fbbc-a4c0-441c-be60-4427a3066c021693856277494
+  y = -40
+  progress_for_element_orientation = false
+  direction = right
+  progress_source = {"placeholder":"drippy_fps"}
+  height = 20
+}
+

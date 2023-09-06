@@ -7,7 +7,7 @@
 	#Whether armor weights are displayed when hovering over an item
 	"Display Weights in Inventory" = true
 	#Whether armor weights are displayed as icons (true) or text (false) when hovering over an item
-	"Display Weight As Icons" = false
+	"Display Weight As Icons" = true
 	#Whether armor weights are effected by icons on the right side of the HUD.
 	"Weight Effected by Right Side Icons" = true
 	#How far left or right you want the feathers to be

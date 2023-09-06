@@ -7,7 +7,7 @@
 	#If enabled, armor types have weight, this reduces the amount of feathers you can use based on how heavy your armor is
 	"Enable Armor Weights" = true
 	#Whether feathers freeze in cold biomes. If they do, they don't regenerate until in a different biome
-	"Enable Frost In Cold Biomes" = false
+	"Enable Frost In Cold Biomes" = true
 	#Whether the Lightweight enchantment can be enhanted in an enchantment table, or if it is treasure only.
 	"Enable Lightweight Enchantment in Table" = true
 

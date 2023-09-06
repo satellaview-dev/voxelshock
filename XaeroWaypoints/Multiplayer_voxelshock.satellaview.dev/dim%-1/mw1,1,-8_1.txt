@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:mine location:ML:-516:61:-190:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:blaze king's tower:KT:-688:59:-321:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:inferno fortress:IF:-499:46:-10:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:teleport:TP:-398:45:-63:10:false:0:gui.xaero_default:false:0:0:false
