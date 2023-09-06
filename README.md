@@ -8,21 +8,25 @@ https://github.com/satellaview-dev/voxelshock/wiki/Installation--%E2%80%90--Refe
 This modpack is free and open source for everyone to modify, redistribute as their own, or as part of a larger project ***AS LONG AS IT COMPLIES WITH THE LICENSES OF EACH OF THE MODS IN THIS PACK***.
 I do not own any of the mods in this pack and am only able to share this because of the hard work of the mod developers.
 
-# Modlist (as of v1.4a)
+# Modlist (as of v1.6a)
 ```
-adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
+ ActuallyUsefulSmithingTable-4.1.1.jar
+ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  adaptive_performance_tweaks_mods_1.19.3-7.1.2.jar
  AI-Improvements-1.19.2-0.5.2.jar
  AmbientEnvironment-forge-1.19.3-8.0+4.jar
  AmbientSounds_FORGE_v5.2.17_mc1.19.3.jar
+ AoA3-1.19.3-3.6.22.jar
  appleskin-forge-mc1.19-2.4.2.jar
  architectury-7.1.86-forge.jar
+ armortrims-1.19.3-1.1.1.jar
  armor_visibility-forge-1.19.4-7.0.0.jar
  ash-forge-1.19.4-1.0.1.jar
  async-locator-forge-1.19.3-1.3.0.jar
  AttributeFix-Forge-1.19.3-18.0.2.jar
  AxesAreWeapons-1.7.0-forge-1.19.3.jar
  balm-forge-1.19.3-5.0.4.jar
+ beautifiedchatclient-1.19.3-2.2.jar
  BetterAdvancements-1.19.3-0.3.1.153.jar
  BetterAnimationsCollection-v5.0.0-1.19.3-Forge.jar
  bettercombat-forge-1.7.1+1.19.3.jar
@@ -39,6 +43,7 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  clienttweaks-forge-1.19.3-9.0.0.jar
  cloth-config-9.1.104-forge.jar
  Clumps-forge-1.19.3-9.0.0+16.jar
+ collective-1.19.3-6.55.jar
  combatroll-forge-1.1.5+1.19.3.jar
  comforts-forge-6.1.2+1.19.3.jar
  configured-2.1.1-1.19.3.jar
@@ -48,10 +53,12 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  craftingtweaks-forge-1.19.3-16.0.2.jar
  CraftPresence-2.1.2+1.19.3.jar
  CreativeCore_FORGE_v2.10.7_mc1.19.3.jar
+ cristellib-forge-1.0.0.jar
  DamageVignette-2.0.1-forge+mc1.19.x.jar
  defaultoptions-forge-1.19.3-16.0.2.jar
- DistantFriends-1.19.3-0.3.0.jar
- DistantHorizons-1.6.10a-1.19.3.jar
+ DistantFriends-1.19.3-0.3.0.jar.disabled
+ DistantHorizons-1.6.10a-1.19.3.jar.disabled
+ drippyloadingscreen_forge_2.2.2_MC_1.19.3.jar
  dungeons-and-taverns-2.0.2.jar
  Durability101-forge-1.19.3-0.0.4.jar
  dynamiccrosshair-5.4+1.19.3-forge.jar
@@ -74,7 +81,6 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  Female-Gender-Mod-forge-1.19.3-3.0.1.jar
  ferritecore-5.1.0-forge.jar
  FilledToTheBrim-Forge-1.0.10.jar
- firstaid-1.13.0.jar
  firstperson-forge-2.2.3-mc1.19.3.jar
  forgivingvoid-forge-1.19.4-9.0.1.jar
  From-The-Fog-1.19-v1.9.1-Forge-Fabric.jar
@@ -82,12 +88,13 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  gamemenuremovegfarb-forge-mc1.19.3-2.0.0.jar
  geckolib-forge-1.19.3-4.0.6.jar
  geophilic-forge-1.19-1.2.2.jar
- hardcorerevival-forge-1.19.3-10.0.0.jar
+ Highlighter-1.19.3-forge-1.1.4.jar
  hourglass-1.19.1-1.2.1.1.jar
  Iceberg-1.19.3-forge-1.1.6.jar
  Incendium_1.19.3_v5.1.6.jar
  invhud.forge.1.19-3.4.7.jar
  InvMove-1.19-0.8.2-Forge.jar
+ ItemBorders-1.19.3-forge-1.2.0.jar
  itlt-1.19.3-2.1.5-beta1.jar
  Jade-1.19.3-forge-9.4.1.jar
  justzoom_forge_1.0.1-1_MC_1.19.jar
@@ -100,12 +107,11 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  mahoutsukai-1.19.3-v1.34.42.jar
  majrusz-library-1.19.3-3.3.0.jar
  majruszs-difficulty-1.19.3-1.7.3.jar
- manic-1.0.3.jar (https://github.com/VisiVersa/Manic)
+ [manic-1.0.3.jar](https://github.com/VisiVersa/Manic)
  memoryleakfix-forge-1.17+-1.0.0.jar
  MindfulDarkness-v5.0.2-1.19.3-Forge.jar
  mmoparties-2.4.2.1.19.jar
  mob-captains-v2.1.2.jar
- modnametooltip-1.19-1.19.0.jar
  MouseTweaks-forge-mc1.19.3-2.24.jar
  Nimble-1.19.3-forge-4.2.0.jar
  NoAutoJump-1.19.4-1.0.jar
@@ -113,13 +119,13 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  notenoughcrashes-4.4.0+1.19.3-forge.jar
  notenoughweapons-1.0.0.jar
  Nullscape_1.19.3_v1.2.1a.jar
+ OfflineSkins-1.19.3-v1.jar
 "Oh_The_Biomes_You'll_Go-forge-1.19.3-3.0.0.2.jar"
  OverflowingBars-v5.0.0-1.19.3-Forge.jar
  overgrowth-1.19.3-1.0.6.jar
  OverpoweredMending-1.19.3-2.9.0.jar
  ParCool-1.19.3-3.0.1.0-R.jar
  parry-2.4.3.jar
- physics-mod-pro-v152-forge-1.19.3.jar.disabled
  player-animation-lib-forge-1.0.2+1.19.3.jar
  Prism-1.19.3-forge-1.0.3.jar
  PuzzlesLib-v5.0.33-1.19.3-Forge.jar
@@ -129,7 +135,7 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  ReSkin-2.6.1-universal.jar
  rubidium-0.6.3.jar
  rubidium-extra-0.4.17+mc1.19.3-build.73.jar
- sanguine-0.3.2.jar (https://github.com/VisiVersa/Sanguine)
+ [sanguine-0.3.2.jar](https://github.com/VisiVersa/Sanguine)
  saturn-mc1.19.3-0.0.4.jar
  Searchables-forge-1.19.3-1.0.1.jar
  SekCLib-1.19-1.19.3-0.4.3-universal.jar
@@ -140,8 +146,7 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  smoothchunk-1.19.3-3.0.jar
  soundphysics-forge-1.19.3-1.1.0.jar
  spark-1.10.37-forge.jar
- spawn-animations-1.9.1.jar
- squaremap-forge-mc1.19.3-1.1.10.jar
+ starlight-1.1.1+forge.cf5b10b.jar
  Structory_1.19.3_v1.3.1a.jar
  structure_gel-1.19.3-2.9.0.jar
  StylishEffects-v5.0.0-1.19.3-Forge.jar
@@ -154,6 +159,7 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  TipTheScales-forge-1.19.3-6.0.11.jar
  ToolStats-Forge-1.19.3-13.1.2.jar
  torchhit-1.19.3-6.0.1.2-forge.jar
+ Towns-and-Towers-1.11-Fabric+Forge.jar
  trashslot-forge-1.19.3-13.0.1.jar
  TravelersBackpack-1.19.3-8.3.9.jar
  TravelersTitles-1.19.3-Forge-3.2.0.jar
@@ -164,5 +170,6 @@ adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  WarriorRage-1.19.3-1.3.0.jar
  witherstormmod-1.19.3-3.2.1.1.jar
  wso16-forge-1.1.jar
+ Xaeros_Minimap_23.7.0_Forge_1.19.3.jar
  ydmscorex-forge-1.19.3-1.0.1.jar
  YungsApi-1.19.3-Forge-3.9.0.jar
