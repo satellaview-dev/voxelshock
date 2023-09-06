@@ -9,7 +9,7 @@ This modpack is free and open source for everyone to modify, redistribute as the
 I do not own any of the mods in this pack and am only able to share this because of the hard work of the mod developers.
 
 # Modlist (as of v1.6a)
-```
+
  ActuallyUsefulSmithingTable-4.1.1.jar
  adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
  adaptive_performance_tweaks_mods_1.19.3-7.1.2.jar
