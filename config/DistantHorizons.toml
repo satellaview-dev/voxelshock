@@ -21,7 +21,7 @@ optionsButton = true
 			drawResolution = "BLOCK"
 			# The radius of the mod's render distance. (measured in chunks) 
 			#
-			lodChunkRenderDistance = 64
+			lodChunkRenderDistance = 128
 			# This indicates how detailed fake chunks will represent 
 			# overhangs, caves, floating islands, ect. 
 			# Higher options will make the world more accurate, but will increase memory and GPU usage. 
@@ -31,7 +31,7 @@ optionsButton = true
 			# HIGH: uses at max 8 columns per position. 
 			#
 			# Lowest Quality: LOW Highest Quality: HIGH
-			verticalQuality = "LOW"
+			verticalQuality = "ULTRA"
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.
@@ -39,7 +39,7 @@ optionsButton = true
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.
-			horizontalQuality = "LOWEST"
+			horizontalQuality = "HIGH"
 			# This determines how lod level drop off will be done. 
 			#
 			# SMOOTH_DROPOFF: 
@@ -51,7 +51,7 @@ optionsButton = true
 			#     Use SMOOTH_DROPOFF for less then 128 Lod render distance, 
 			#     or PERFORMANCE_FOCUSED otherwise. 
 			#
-			dropoffQuality = "AUTO"
+			dropoffQuality = "SMOOTH_DROPOFF"
 			# This is the same as vanilla Biome Blending settings for Lod area. 
 			#     Note that anything other than '0' will greatly effect Lod building time 
 			#     and increase triangle count. The cost on chunk generation speed is also 
@@ -76,7 +76,7 @@ optionsButton = true
 			# FOG_DISABLED: Always draw fast fog on the LODs 
 			#
 			# Disabling fog will improve GPU performance.
-			fogDrawMode = "FOG_ENABLED"
+			fogDrawMode = "USE_OPTIFINE_SETTING"
 			# What color should fog use? 
 			#
 			# USE_WORLD_FOG_COLOR: Use the world's fog color. 
@@ -87,7 +87,7 @@ optionsButton = true
 			# If true disable Minecraft's fog. 
 			#
 			# Experimental! Mod support is not guarantee.
-			disableVanillaFog = false
+			disableVanillaFog = true
 
 			[client.graphics.fogQuality.advancedFog]
 				# Where should the far fog start? 
@@ -344,7 +344,7 @@ optionsButton = true
 		# NAME_IP_PORT: Example: "Minecraft Server IP 192.168.1.40:25565" 
 		#
 		#
-		serverFolderNameMode = "AUTO"
+		serverFolderNameMode = "NAME_ONLY"
 		# When matching worlds of the same dimension type the 
 		# tested chunks must be at least this percent the same 
 		# in order to be considered the same world. 
@@ -358,7 +358,7 @@ optionsButton = true
 		#            only one world will be used per dimension. 
 		#
 		#
-		multiDimensionRequiredSimilarity = 1.0
+		multiDimensionRequiredSimilarity = 0.1
 
 	[client.advanced]
 		# Due to some demand for playing without vanilla terrains, 
@@ -409,7 +409,7 @@ optionsButton = true
 			# DEBUG: Debug testing renderer 
 			# DISABLED: Disable rendering 
 			#
-			rendererType = "DISABLED"
+			rendererType = "DEFAULT"
 			# Should specialized colors/rendering modes be used? 
 			#
 			# OFF: Fake chunks will be drawn with their normal colors. 

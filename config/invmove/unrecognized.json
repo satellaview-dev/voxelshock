@@ -96,7 +96,15 @@
     "xaero.common.gui.GuiWaypointsOptions": true,
     "xaero.common.gui.GuiWaypointSettings": true,
     "xaero.common.gui.GuiInfoDisplayEdit": true,
-    "nonamecrackers2.witherstormmod.client.gui.WitherStormModConfigScreen$Client": true
+    "nonamecrackers2.witherstormmod.client.gui.WitherStormModConfigScreen$Client": true,
+    "xaero.common.gui.GuiReset": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaero.map.gui.GuiMap": true,
+    "xaero.common.gui.GuiTransfer": true,
+    "portb.biggerstacks.gui.ConfigureScreen": true,
+    "de.keksuccino.fancymenu.menu.fancy.helper.layoutcreator.LayoutEditorScreen": true,
+    "de.keksuccino.fancymenu.menu.fancy.helper.ui.FMConfigScreen": true,
+    "de.keksuccino.fancymenu.menu.fancy.helper.layoutcreator.PreloadedLayoutEditorScreen": true
   },
   "hideBackground": {
     "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,

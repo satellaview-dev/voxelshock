@@ -1,10 +1,9 @@
 //waypoints config options
-usingMultiworldDetection:false
+usingMultiworldDetection:true
 ignoreServerLevelId:false
-defaultMultiworldId:mw1,1,-8
 teleportationEnabled:true
 usingDefaultTeleportCommand:true
-sortType:DISTANCE
+sortType:NONE
 sortReversed:false
 
 //other config options

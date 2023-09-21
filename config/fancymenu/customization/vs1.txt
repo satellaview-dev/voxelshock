@@ -20,6 +20,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
   orientation = bottom-centered
   x = -98
   action = movebutton
@@ -43,10 +48,15 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
-  x = 30
+  x = 211
   action = movebutton
-  y = 20
+  y = -134
 }
 
 customization {
@@ -87,19 +97,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = bottom-left
+  orientation = mid-left
   x = 62
   action = movebutton
-  y = -190
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  seconds = 5.0
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
+  y = -31
 }
 
 customization {
@@ -107,16 +108,7 @@ customization {
   orientation = bottom-right
   x = -160
   action = movebutton
-  y = -190
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  seconds = 5.0
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
+  y = -200
 }
 
 customization {
@@ -151,14 +143,14 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
-  x = -110
+  x = 160
   action = movebutton
-  y = 20
+  y = 10
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 75
+  width = 98
   action = resizebutton
   height = 20
 }
@@ -174,19 +166,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  orientation = bottom-centered
-  x = -49
+  orientation = mid-left
+  x = 62
   action = movebutton
-  y = -35
-}
-
-customization {
-  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  seconds = 5.0
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
+  y = 10
 }
 
 customization {
@@ -276,72 +259,159 @@ customization {
 }
 
 customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.youtube.com/watch?v=VqB1uoDTdKM%btnaction_splitter_fm%
+  x = 576
+  width = 5
+  action = addbutton
+  actionid = a45db98c-af71-429b-94f3-1c6f239835c61695273074277
+  y = 178
+  label = 
+  height = 20
+}
+
+customization {
   path = title2.png
   orientation = mid-centered
-  x = -160
+  x = -159
   width = 320
   action = addtexture
   actionid = 5d7f9e37-bc4d-401f-9873-b0e8f4899cad1689508305424
-  y = -50
+  y = -56
   height = 100
 }
 
 customization {
   orientation = bottom-centered
-  enable_scrolling = true
+  enable_scrolling = false
   shadow = false
-  scale = 5.0
-  source = v1.6a
+  scale = 2.5
+  source = v1.7.3a
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -96
-  width = 200
+  x = -70
+  width = 140
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 4b5619a3-f6b4-4533-b1b4-f53708d0693a1689735813176
-  y = -298
+  y = -275
   alignment = centered
-  height = 60
+  height = 40
 }
 
 customization {
-  orientation = mid-centered
-  basecolor = #ffff00
-  shadow = true
-  delayappearanceseconds = 5.0
-  splashfilepath = splashtexts.txt
-  rotation = 0.0
-  scale = 2.0
-  refresh = true
-  bouncing = true
-  fadein = true
-  vanilla-like = false
-  fadeinspeed = 1.0
-  x = -54
-  actionid = 856ba9b7-a33c-46c5-a34c-b701d9be7e9a1690807965292
-  action = addsplash
-  y = 95
-  delayappearance = true
-  delayappearanceeverytime = false
-}
-
-customization {
-  orientation = top-centered
+  orientation = bottom-centered
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = {"placeholder":"drippy_cpu_info"} | {"placeholder":"drippy_gpu_info"}%n%{"placeholder":"drippy_java_version"} | {"placeholder":"drippy_java_vm"}%n%{"placeholder":"drippy_opengl_version"} | {"placeholder":"drippy_operating_system"}
+  source = NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -319
-  width = 639
+  x = -252
+  width = 504
   action = custom_layout_element:fancymenu_customization_item_text
-  actionid = 63e21fd4-4b1e-445b-b3c8-22ff3ccf21211693856450313
-  y = 0
+  actionid = 3d434b0e-1a8a-44a4-8146-d31a58f00b631694152191266
+  y = -14
+  alignment = centered
+  height = 14
+}
+
+customization {
+  slim = false
+  auto_skin = false
+  scale = 30
+  showname = true
+  follow_mouse = false
+  capeurl = http://textures.minecraft.net/texture/f9a76537647989f9a0b6d001e320dac591c359e9e61a31f4ce11c88f207f0ad4
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = 8967037b-29ff-4685-b6c3-44f5ad6982b51695076288225
+  playername = satellaview_dev
+  bodyrotationx = -24.375
+  bodyrotationy = -16.875
+  auto_cape = false
+  is_baby = false
+  height = 54
+  orientation = element
+  copy_client_player = true
+  headrotationy = 0.0
+  headrotationx = -24.375
+  skinurl = http://textures.minecraft.net/texture/803b46c610d3b459afa3266e327d6c2b33e6010456e8fa1fb4e9b3b94fa26e34
+  crouching = false
+  orientation_element = 587cd901-c979-426b-8d35-bf149ef71ddb1695076385045
+  x = -59
+  width = 18
+  parrot_left_shoulder = false
+  y = -5
+  parrot = false
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"serverstatus","values":{"ip":"voxelshock.satellaview.dev"}}%n%{"placeholder":"serverplayercount","values":{"ip":"voxelshock.satellaview.dev"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -17
+  width = 35
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 587cd901-c979-426b-8d35-bf149ef71ddb1695076385045
+  y = -107
   alignment = centered
   height = 40
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = 587cd901-c979-426b-8d35-bf149ef71ddb1695076385045
+  buttonaction = joinserver;voxelshock.satellaview.dev%btnaction_splitter_fm%
+  x = -19
+  width = 75
+  action = addbutton
+  actionid = 22f3e8f9-502a-48c7-aa95-2d0ada2f8bca1695076869767
+  y = -20
+  label = Join Server
+  height = 20
+}
+
+customization {
+  orientation = element
+  basecolor = #ffff00
+  shadow = true
+  splashfilepath = splashtexts.txt
+  rotation = 0.0
+  scale = 2.5
+  refresh = true
+  bouncing = false
+  vanilla-like = false
+  orientation_element = 4b5619a3-f6b4-4533-b1b4-f53708d0693a1689735813176
+  x = 10
+  actionid = 9ea358f8-da4a-40a8-b0b0-f1e3feb757271695272730502
+  action = addsplash
+  y = -53
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/hqyS4YpqSn%btnaction_splitter_fm%
+  x = -50
+  width = 100
+  action = addbutton
+  actionid = 40f8da75-ae93-414c-afc5-b4d969cc97ae1695273311599
+  y = -37
+  label = Discord Server
+  height = 20
 }
 

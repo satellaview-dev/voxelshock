@@ -6,6 +6,7 @@ differentiateByServerAddress:true
 debugEntityIcons:false
 debugEntityVariantIds:false
 radarHideInvisibleEntities:true
+allowInternetAccess:true
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:true
 minimap:true
@@ -18,7 +19,7 @@ deathpoints:true
 oldDeathpoints:true
 distance:1
 lockNorth:false
-zoom:4
+zoom:1
 minimapSize:0
 chunkGrid:0
 slimeChunks:false

@@ -1,0 +1,9 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:G:G:-641:~:260:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:bastion:B:-538:91:28:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:portal:P:-81:32:-237:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:ANCHOR:A:-397:45:-63:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:bastion:b:-1024:~:-624:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:mine:M:-514:61:-192:0:false:0:gui.xaero_default:false:0:0:false

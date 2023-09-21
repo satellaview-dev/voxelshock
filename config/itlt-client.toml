@@ -351,7 +351,7 @@
 		# - "ModpackName v2 based on %mc" = "ModpackName v2 based on Minecraft* 1.17.1"
 		# 
 		# Note: enableCustomWindowTitle must be enabled for this to take effect.
-		customWindowTitleText = "%autoName - %mc"
+		customWindowTitleText = "%autoName"
 		# 
 		# Whether or not to automatically replace "%autoName" in customWindowTitleText with
 		# your modpack's display name when launching from a supported launcher.
@@ -364,7 +364,7 @@
 		# 
 		# Note: This value will always be used for %autoName if enableUsingAutodetectedDisplayName
 		# is disabled, regardless of whether or not the pack is launched from a supported launcher.
-		autoDetectedDisplayNameFallback = "VoxelShock"
+		autoDetectedDisplayNameFallback = "VOXELSHOCK"
 
 	[Display.Icon]
 		# 
@@ -378,7 +378,7 @@
 		# Enable this if you want to change the window and taskbar icon of the Minecraft window.
 		# ICO, ICNS and PNG icons provided to this mod are supported on all operating systems.
 		# 
-		# Note: The icon needs to be placed in config/itlt/icon.(ico/icns/png).
+		# Note: The icon needs to be placed in config\itlt\icon.(ico/icns/png).
 		# 
 		# Note: See the itlt wiki for more info.
 		# 
@@ -397,7 +397,7 @@
 		# Enable this if you want to show a welcome screen to your users the first time they
 		# start your modpack. You can customise the text shown using a text file.
 		# 
-		# Note: The text file needs to be placed in config/itlt/welcome.txt
+		# Note: The text file needs to be placed in config\itlt\welcome.txt
 		# 
 		# Warning: This feature is experimental and may change in future v2.x releases. Check the
 		# changelog before updating if you use this. The changelog will make any breaking changes
@@ -421,7 +421,7 @@
 	# 
 	# Enable this to have itlt add default servers to the Multiplayer list from a JSON file.
 	# 
-	# Note: The JSON needs to be placed in config/itlt/servers.json
+	# Note: The JSON needs to be placed in config\itlt\servers.json
 	# 
 	# Warning: This feature is experimental and may change in future v2.x releases. Check the
 	# changelog before updating if you use this. The changelog will make any breaking changes

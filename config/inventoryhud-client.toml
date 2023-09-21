@@ -34,13 +34,13 @@
 	showInv = false
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
-	armView = "OFF"
+	armView = "PERCENTAGE"
 	#Show item durability bar
 	armBars = true
 	#Move all items at once or each one
 	moveAll = true
 	#Show/Hide empty slot icon
-	showEmpty = false
+	showEmpty = true
 	#Show overall count of items in main/off hand
 	showCount = false
 	#ArmorHUD scale in persentage from 50 to 150
@@ -90,7 +90,7 @@
 	xArmPos = 124
 	#Armor HUD position (Y)
 	#Range: -9999 ~ 9999
-	yArmPos = 70
+	yArmPos = 52
 	#Potion HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	potValign = "BOTTOM"
