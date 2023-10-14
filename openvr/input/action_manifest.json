@@ -1,0 +1,1247 @@
+{
+  "localization": [
+    {
+      "/actions/mod/in/key.drawMahoujin": "Mahou Tsukai - Draw Mahoujin",
+      "/actions/mod/in/key.parcool.Flipping": "ParCool - Flip",
+      "/actions/ingame/in/key.socialInteractions": "Multiplayer - Social Interactions Screen",
+      "/actions/mod/in/key.craftingtweaks.compressAll": "Crafting Tweaks - Compress All",
+      "/actions/ingame/in/key.drop": "Inventory - Drop Selected Item",
+      "/actions/gui/in/vivecraft.key.guiScrollAxis": "GUI - Scroll",
+      "/actions/ingame/in/key.back": "Movement - Walk Backwards",
+      "/actions/mod/in/key.travelersbackpack.toggle_tank": "Traveler's Backpack - Toggle Hose Tank",
+      "/actions/mod/in/key.structure_gel.open_building_tool_gui": "Building Tool - Open Building Tool GUI",
+      "/actions/mod/in/key.wildfire_gender.gender_menu": "Wildfire's Female Gender Mod - Female Gender Menu",
+      "/actions/ingame/in/key.saveToolbarActivator": "Creative Mode - Save Toolbar Activator",
+      "/actions/mod/in/key.forgeshot.screenshot": "Miscellaneous - Screenshot - Forgeshot",
+      "/actions/global/out/lefthaptic": "Left Hand Haptic",
+      "/actions/ingame/in/key.forward": "Movement - Walk Forwards",
+      "/actions/mod/in/key.jade.show_overlay": "Jade - Show Overlay",
+      "/actions/ingame/in/key.sneak": "Movement - Sneak",
+      "/actions/mod/in/key.voice_chat_adjust_volumes": "Voice Chat - Adjust Volumes",
+      "/actions/gui/in/vivecraft.key.guiAlt": "GUI - Alt",
+      "/actions/ingame/in/key.smoothCamera": "Miscellaneous - Toggle Cinematic Camera",
+      "/actions/global": "Global",
+      "/actions/mod/in/key.parcool.QuickTurn": "ParCool - Quick Turn",
+      "/actions/mod/in/gui.xaero_zoom_in": "Xaero's Minimap - Zoom In Minimap",
+      "/actions/mod/in/key.jade.toggle_liquid": "Jade - Toggle Liquid",
+      "/actions/mod/in/key.parcool.Vault": "ParCool - Vault",
+      "/actions/mod/in/gui.xaero_instant_waypoint": "Xaero's Minimap - Quick Waypoint",
+      "/actions/mod/in/key.voice_chat_group": "Voice Chat - Voice Chat Group",
+      "/actions/mod/in/key.jade.show_details": "Jade - Show Details",
+      "/actions/mod/in/Toggle Zoom": "Just Zoom - Toggle Zoom",
+      "/actions/technical/in/vivecraft.key.trackpadTouch": "Miscellaneous - Trackpad Touch",
+      "/actions/mod/in/key.voice_chat_toggle_recording": "Voice Chat - Toggle Recording",
+      "/actions/mod/in/key.craftingtweaks.decompressAll": "Crafting Tweaks - Decompress All",
+      "/actions/mod/in/gui.xaero_enlarge_map": "Xaero's Minimap - Enlarge Minimap",
+      "/actions/mod/in/key.raised.hud.up": "Raised - Move HUD Up",
+      "/actions/mod/in/gui.xaero_minimap_settings": "Xaero's Minimap - Minimap Settings",
+      "/actions/mod/in/gui.xaero_display_all_sets": "Xaero's Minimap - Toggle All WP Sets Render",
+      "/actions/mod/in/key.jade.narrate": "Jade - Narrate",
+      "/actions/ingame/in/key.fullscreen": "Miscellaneous - Toggle Fullscreen",
+      "/actions/mod/in/key.selectiveDisplacement": "Mahou Tsukai - Selective Displacement",
+      "/actions/global/in/lefthand": "Left Hand Pose",
+      "/actions/mixedreality/in/externalcamera": "External Camera",
+      "/actions/ingame/in/vivecraft.key.hotbarSwipeX": "Inventory - Hotbar Swipe (Left/Right)",
+      "/actions/ingame/in/vivecraft.key.hotbarSwipeY": "Inventory - Hotbar Swipe (Up/Down)",
+      "/actions/ingame/in/vivecraft.key.rotateRight": "Movement - Rotate Right",
+      "/actions/mod/in/key.clienttweaks.disableLogStripping": "Client Tweaks - Toggle Log Stripping",
+      "/actions/mod/in/key.craftingtweaks.clear": "Crafting Tweaks - Clear Grid",
+      "/actions/mod/in/key.raised.hud.down": "Raised - Move HUD Down",
+      "/actions/ingame/in/vivecraft.key.radialMenu": "Game Interface - Open Radial Menu",
+      "/actions/mod/in/key.craftingtweaks.rotate_counter_clockwise": "Crafting Tweaks - Rotate Grid (CCW)",
+      "/actions/mod/in/key.parcool.Breakfall": "ParCool - Breakfall",
+      "/actions/mod/in/key.trashslot.deleteAll": "TrashSlot - Delete All Items of Type",
+      "/actions/technical": "Technical",
+      "/actions/ingame/in/vivecraft.key.freeMoveRotate": "Movement - Move/Rotate",
+      "/actions/mod/in/key.craftpresence.config_keycode.name": "CraftPresence - Controls - Config Gui Keybind",
+      "/actions/mod/in/gui.xaero_map_zoom_in": "Xaero's World Map - Zoom In (alternative)",
+      "/actions/ingame/in/key.spectatorOutlines": "Miscellaneous - Highlight Players (Spectators)",
+      "/actions/mod/in/key.disable_voice_chat": "Voice Chat - Disable Voice Chat",
+      "/actions/mod/in/nimble.keybind.frontView": "Nimble - Use Front View",
+      "/actions/contextual/in/vivecraft.key.climbeyJump": "Climbey Motion - Jump Boots",
+      "/actions/mod/in/gui.xaero_alternative_list_players": "Xaero's Minimap - \"List Players\" Alternative",
+      "/actions/mod/in/key.craftingtweaks.decompressOne": "Crafting Tweaks - Decompress Item",
+      "/actions/mod/in/gui.xaero_open_settings": "Xaero's World Map - Open Settings",
+      "/actions/gui/in/vivecraft.key.guiCtrl": "GUI - Ctrl",
+      "/actions/global/in/key.chat": "Multiplayer - Open Chat",
+      "/actions/keyboard/in/vivecraft.key.keyboardClick": "Keyboard - Click",
+      "/actions/mod/in/key.travelersbackpack.cycle_tool": "Traveler's Backpack - Swap Tool or Change Hose Mode",
+      "/actions/mod/in/keybinds.bettercombat.toggle_mine_with_weapons": "Better Combat - Toggle Mine with weapons",
+      "/actions/contextual/in/vivecraft.key.climbeyGrab": "Climbey Motion - Climb Claws",
+      "/actions/global/in/vivecraft.key.ingameMenuButton": "Game Interface - Game Menu",
+      "/actions/ingame/in/key.screenshot": "Miscellaneous - Take Screenshot",
+      "/actions/mod/in/key.craftingtweaks.force_clear": "Crafting Tweaks - Force Clear Grid",
+      "/actions/mod/in/key.raised.chat.down": "Raised - Move Chat Down",
+      "/actions/gui/in/vivecraft.key.guiLeftClick": "GUI - Left Click",
+      "/actions/keyboard/in/vivecraft.key.keyboardShift": "Keyboard - Shift",
+      "/actions/mod/in/keybinds.combatroll.roll": "Combat Roll - Roll",
+      "/actions/mod/in/key.inventoryhud.openconfig": "Inventory HUD+ - Open config",
+      "/actions/mixedreality": "Mixed Reality",
+      "/actions/ingame/in/vivecraft.key.rotateAxis": "Movement - Rotate Only",
+      "/actions/mod/in/key.parcool.WallJump": "ParCool - Wall Jump",
+      "/actions/mod/in/gui.xaero_reverse_entity_radar": "Xaero's Minimap - Reverse Radar Render Order",
+      "/actions/mod/in/key.parcool.WallSlide": "ParCool - Wall Slide",
+      "/actions/ingame/in/key.advancements": "Miscellaneous - Advancements",
+      "/actions/mod/in/info.structure_gel.building_tool.undo": "Building Tool - Undo",
+      "/actions/contextual": "Contextual",
+      "/actions/mod/in/gui.xaero_toggle_pac_chunk_claims": "Xaero's Minimap - Toggle Chunk Claims",
+      "/actions/mod/in/gui.xaero_toggle_waypoints": "Xaero's Minimap - Toggle In-Game Waypoints",
+      "/actions/mod/in/key.entityculling.toggle": "EntityCulling - Debug toggle culling",
+      "/actions/mod/in/key.parcool.HangDown": "ParCool - Hang Down",
+      "/actions/mod/in/gui.xaero_toggle_tracked_players": "Xaero's Minimap - Toggle Tracked Players",
+      "/actions/mod/in/Toggle Customization Overlay | CTRL + ALT + ": "FancyMenu - Toggle Customization Overlay | CTRL + ALT + ",
+      "/actions/mod/in/key.parcool.openSetting": "ParCool - Open Settings",
+      "/actions/gui/in/vivecraft.key.guiScrollDown": "GUI - Scroll Down",
+      "/actions/global/in/vivecraft.key.toggleHandheldCam": "Miscellaneous - Toggle Camera",
+      "/actions/mod/in/key.plasmovoice.settings": "Plasmo Voice - Voice Settings",
+      "/actions/ingame/in/vivecraft.key.exportWorld": "Miscellaneous - Export Menu World",
+      "/actions/global/in/vivecraft.key.swapMirrorView": "Miscellaneous - Swap Mirror View",
+      "/actions/mod/in/gui.xaero_toggle_manual_cave_mode": "Xaero's Minimap - Toggle Manual Cave Mode",
+      "/actions/mod/in/key.whisper": "Voice Chat - Whisper",
+      "/actions/mod/in/key.parcool.FastRun": "ParCool - Fast Run",
+      "/actions/mod/in/key.craftingtweaks.refill_last_stack": "Crafting Tweaks - Refill Last (Stack)",
+      "/actions/mod/in/key.mute_microphone": "Voice Chat - Mute Microphone",
+      "/actions/ingame/in/key.togglePerspective": "Miscellaneous - Toggle Perspective",
+      "/actions/ingame/in/vivecraft.key.rotateFree": "Movement - Rotate Free",
+      "/actions/mod/in/key.forgeshot.screenshot_gui": "Miscellaneous - Forgeshot Settings",
+      "/actions/mod/in/gui.xaero_switch_waypoint_set": "Xaero's Minimap - Switch Waypoint Set",
+      "/actions/mod/in/key.trashslot.delete": "TrashSlot - Delete Item",
+      "/actions/ingame/in/key.use": "Gameplay - Use Item/Place Block",
+      "/actions/global/in/key.inventory": "Inventory - Open/Close Inventory",
+      "/actions/ingame/in/key.playerlist": "Multiplayer - List Players",
+      "/actions/mod/in/key.craftingtweaks.compressStack": "Crafting Tweaks - Compress Stack",
+      "/actions/ingame/in/key.right": "Movement - Strafe Right",
+      "/actions/mod/in/key.hammerlib.render_item": "Game Interface - [HammerLib] Render GUI Item",
+      "/actions/mod/in/key.parcool.Crawl": "ParCool - Crawl",
+      "/actions/ingame/in/key.left": "Movement - Strafe Left",
+      "/actions/gui/in/vivecraft.key.guiRightClick": "GUI - Right Click",
+      "/actions/mod/in/key.parcool.HorizontalWallRun": "ParCool - Horizontal Wall-Run",
+      "/actions/ingame/in/vivecraft.key.walkabout": "Movement - Walkabout",
+      "/actions/mod/in/key.craftingtweaks.transfer_stack": "Crafting Tweaks - Transfer to Crafting Grid",
+      "/actions/ingame/in/vivecraft.key.toggleMovement": "Movement - Toggle Movement Mode",
+      "/actions/mod/in/key.trashslot.toggle": "TrashSlot - Show/Hide TrashSlot",
+      "/actions/mod/in/key.inventoryhud.togglearm": "Inventory HUD+ - Toggle ArmorHUD on/off",
+      "/actions/mod/in/gui.xaero_map_zoom_out": "Xaero's World Map - Zoom Out (alternative)",
+      "/actions/ingame/in/key.jump": "Movement - Jump",
+      "/actions/ingame/in/key.pickItem": "Gameplay - Pick Block",
+      "/actions/mod/in/key.clienttweaks.disableStepAssist": "Client Tweaks - Toggle Disable Step Assist",
+      "/actions/mod/in/key.craftingtweaks.refill_last": "Crafting Tweaks - Refill Last",
+      "/actions/mod/in/key.armor_visibility.armor_visibility_toggle": "Armor Visibility - Toggle Armor Visibility",
+      "/actions/mod/in/key.hide_icons": "Voice Chat - Hide Voice Chat Icons",
+      "/actions/mod/in/gui.xaero_toggle_entity_radar": "Xaero's Minimap - Toggle Entity Radar",
+      "/actions/global/out/righthaptic": "Right Hand Haptic",
+      "/actions/ingame/in/key.sprint": "Movement - Sprint",
+      "/actions/mod/in/key.clienttweaks.hideOffhandItem": "Client Tweaks - Toggle Hide Offhand Item",
+      "/actions/mod/in/gui.xaero_waypoints_key": "Xaero's Minimap - Open Waypoint Screen",
+      "/actions/mod/in/gui.xaero_toggle_grid": "Xaero's Minimap - Toggle Chunk Grid",
+      "language_tag": "en_US",
+      "/actions/gui": "GUI",
+      "/actions/gui/in/vivecraft.key.guiMiddleClick": "GUI - Middle Click",
+      "/actions/mod/in/key.inventoryhud.togglepot": "Inventory HUD+ - Toggle PotionHUD on/off",
+      "/actions/mod/in/gui.xaero_toggle_light_overlay": "Xaero's Minimap - Toggle Light Overlay",
+      "/actions/ingame/in/vivecraft.key.freeMoveStrafe": "Movement - Move/Strafe",
+      "/actions/ingame/in/vivecraft.key.rotateLeft": "Movement - Rotate Left",
+      "/actions/mod/in/key.craftingtweaks.decompressStack": "Crafting Tweaks - Decompress Stack",
+      "/actions/mod/in/key.opengui.desc": "MMO Parties - Open GUI",
+      "/actions/mod/in/key.firstperson.toggle": "Firstperson - Toggle Firstperson",
+      "/actions/ingame/in/key.swapOffhand": "Inventory - Swap Item With Offhand",
+      "/actions/gui/in/vivecraft.key.guiShift": "GUI - Shift",
+      "/actions/mod/in/key.stellarview.open_config_screen": "Stellar View Config Screen - Open Config Screen",
+      "/actions/ingame/in/vivecraft.key.hotbarNext": "Inventory - Hotbar Next",
+      "/actions/ingame/in/vivecraft.key.teleport": "Movement - Teleport",
+      "/actions/keyboard": "Keyboard",
+      "/actions/gui/in/vivecraft.key.guiScrollUp": "GUI - Scroll Up",
+      "/actions/mod/in/gui.xaero_zoom_out": "Xaero's Minimap - Zoom Out Minimap",
+      "/actions/global/in/vivecraft.key.toggleKeyboard": "Game Interface - Show/Hide Keyboard",
+      "/actions/mod/in/key.craftingtweaks.rotate": "Crafting Tweaks - Rotate Grid",
+      "/actions/mod/in/key.inventoryhud.toggle": "Inventory HUD+ - Toggle InventoryHUD on/off",
+      "/actions/mod/in/key.inventoryhud.toggleall": "Inventory HUD+ - Toggle all HUDs on/off",
+      "/actions/contextual/in/vivecraft.key.vrInteract": "Gameplay - Contextual Interact",
+      "/actions/mod/in/key.settingsGUI": "Mahou Tsukai - Mahou Settings GUI",
+      "/actions/ingame/in/vivecraft.key.hotbarScroll": "Inventory - Hotbar Scroll",
+      "/actions/mod/in/key.travelersbackpack.inventory": "Traveler's Backpack - Backpack Inventory",
+      "/actions/mod/in/key.jade.config": "Jade - Open Config",
+      "/actions/ingame/in/vivecraft.key.togglePlayerList": "Multiplayer - Toggle Player List",
+      "/actions/mod": "Modded",
+      "/actions/ingame/in/key.command": "Multiplayer - Open Command",
+      "/actions/ingame/in/key.hotbar.1": "Inventory - Hotbar Slot 1",
+      "/actions/mod/in/key.voice_chat_settings": "Voice Chat - Voice Chat Settings",
+      "/actions/ingame/in/key.hotbar.5": "Inventory - Hotbar Slot 5",
+      "/actions/ingame/in/key.hotbar.4": "Inventory - Hotbar Slot 4",
+      "/actions/ingame/in/key.hotbar.3": "Inventory - Hotbar Slot 3",
+      "/actions/ingame/in/key.hotbar.2": "Inventory - Hotbar Slot 2",
+      "/actions/ingame/in/key.hotbar.9": "Inventory - Hotbar Slot 9",
+      "/actions/ingame/in/key.hotbar.8": "Inventory - Hotbar Slot 8",
+      "/actions/ingame/in/key.hotbar.7": "Inventory - Hotbar Slot 7",
+      "/actions/ingame/in/key.hotbar.6": "Inventory - Hotbar Slot 6",
+      "/actions/ingame/in/key.attack": "Gameplay - Attack/Destroy",
+      "/actions/mod/in/key.configured.open_mod_list": "Configured - Open Mod List",
+      "/actions/ingame/in/vivecraft.key.quickTorch": "Gameplay - Quick Torch",
+      "/actions/mod/in/key.voice_chat": "Voice Chat - Voice Chat GUI",
+      "/actions/ingame": "In-Game",
+      "/actions/mod/in/key.changeMysticCode": "Mahou Tsukai - Change Mystic Code",
+      "/actions/mod/in/keybinds.bettercombat.feint": "Better Combat - Feint",
+      "/actions/ingame/in/vivecraft.key.hotbarPrev": "Inventory - Hotbar Previous",
+      "/actions/mod/in/key.push_to_talk": "Voice Chat - Push To Talk",
+      "/actions/mod/in/key.parcool.ClingToCliff": "ParCool - Cling to Cliff",
+      "/actions/ingame/in/key.loadToolbarActivator": "Creative Mode - Load Toolbar Activator",
+      "/actions/mod/in/key.raised.chat.up": "Raised - Move Chat Up",
+      "/actions/mod/in/Reload Menu | CTRL + ALT + ": "FancyMenu - Reload Menu | CTRL + ALT + ",
+      "/actions/mod/in/gui.xaero_open_map": "Xaero's World Map - Open World Map",
+      "/actions/mod/in/key.craftingtweaks.compressOne": "Crafting Tweaks - Compress Item",
+      "/actions/global/in/vivecraft.key.moveThirdPersonCam": "Miscellaneous - Move Third Person Camera",
+      "/actions/global/in/vivecraft.key.quickHandheldCam": "Miscellaneous - Quick Camera",
+      "/actions/mod/in/gui.xaero_new_waypoint": "Xaero's Minimap - New Waypoint",
+      "/actions/mod/in/key.curios.open.desc": "Curios - Open/Close Curios Inventory",
+      "/actions/mod/in/gui.xaero_toggle_slime": "Xaero's Minimap - Toggle Slime Chunks",
+      "/actions/mod/in/info.structure_gel.building_tool.redo": "Building Tool - Redo",
+      "/actions/ingame/in/vivecraft.key.teleportFallback": "Movement - Walk Forwards When Teleport Disabled",
+      "/actions/mod/in/key.craftingtweaks.toggleButtons": "Crafting Tweaks - Toggle Buttons",
+      "/actions/mod/in/keybind.invmove.toggleMove": "InvMove - Toggle UI Movement",
+      "/actions/global/in/righthand": "Right Hand Pose",
+      "/actions/mod/in/gui.xaero_toggle_map": "Xaero's Minimap - Toggle Minimap",
+      "/actions/mod/in/gui.xaero_quick_confirm": "Xaero's World Map - Quick Manual Confirmation",
+      "/actions/mod/in/key.craftingtweaks.spread": "Crafting Tweaks - Spread Grid",
+      "/actions/mod/in/gui.xaero_toggle_map_waypoints": "Xaero's Minimap - Toggle On-Map Waypoints",
+      "/actions/mod/in/key.craftingtweaks.balance": "Crafting Tweaks - Balance Grid",
+      "/actions/mod/in/key.parcool.Dodge": "ParCool - Dodge"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "vive_controller",
+      "binding_url": "vive_defaults.json"
+    },
+    {
+      "controller_type": "oculus_touch",
+      "binding_url": "oculus_defaults.json"
+    },
+    {
+      "controller_type": "holographic_controller",
+      "binding_url": "wmr_defaults.json"
+    },
+    {
+      "controller_type": "knuckles",
+      "binding_url": "knuckles_defaults.json"
+    },
+    {
+      "controller_type": "vive_cosmos_controller",
+      "binding_url": "cosmos_defaults.json"
+    },
+    {
+      "controller_type": "vive_tracker_camera",
+      "binding_url": "tracker_defaults.json"
+    }
+  ],
+  "actions": [
+    {
+      "name": "/actions/ingame/in/key.jump",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.freeMoveRotate",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.freeMoveStrafe",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateFree",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateLeft",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateAxis",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.rotateRight",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/key.sneak",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.sprint",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.left",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/key.right",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.teleport",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.toggleMovement",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.back",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/key.forward",
+      "requirement": "optional",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.teleportFallback",
+      "requirement": "suggested",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.walkabout",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.attack",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/contextual/in/vivecraft.key.vrInteract",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.pickItem",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.quickTorch",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.use",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.drop",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarNext",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarPrev",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarScroll",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.1",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.2",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.3",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.4",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.5",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.6",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.7",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.8",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.hotbar.9",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarSwipeX",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.hotbarSwipeY",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/global/in/key.inventory",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.swapOffhand",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.loadToolbarActivator",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.saveToolbarActivator",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.playerlist",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/key.chat",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.command",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.socialInteractions",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.togglePlayerList",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.ingameMenuButton",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.radialMenu",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.toggleKeyboard",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.hammerlib.render_item",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.advancements",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/vivecraft.key.exportWorld",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.forgeshot.screenshot_gui",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.spectatorOutlines",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.moveThirdPersonCam",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.quickHandheldCam",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.forgeshot.screenshot",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.swapMirrorView",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.screenshot",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/vivecraft.key.toggleHandheldCam",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.smoothCamera",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.fullscreen",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/ingame/in/key.togglePerspective",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/technical/in/vivecraft.key.trackpadTouch",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiAlt",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiCtrl",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiLeftClick",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiMiddleClick",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiRightClick",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiScrollAxis",
+      "requirement": "optional",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiScrollDown",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiScrollUp",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/gui/in/vivecraft.key.guiShift",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/contextual/in/vivecraft.key.climbeyGrab",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/contextual/in/vivecraft.key.climbeyJump",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/keyboard/in/vivecraft.key.keyboardClick",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/keyboard/in/vivecraft.key.keyboardShift",
+      "requirement": "suggested",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftpresence.config_keycode.name",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.armor_visibility.armor_visibility_toggle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybinds.bettercombat.feint",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybinds.bettercombat.toggle_mine_with_weapons",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.structure_gel.open_building_tool_gui",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/info.structure_gel.building_tool.redo",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/info.structure_gel.building_tool.undo",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.clienttweaks.disableStepAssist",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.clienttweaks.hideOffhandItem",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.clienttweaks.disableLogStripping",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybinds.combatroll.roll",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.configured.open_mod_list",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.balance",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.clear",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.compressAll",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.compressOne",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.compressStack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.decompressAll",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.decompressOne",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.decompressStack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.force_clear",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.refill_last",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.refill_last_stack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.rotate",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.rotate_counter_clockwise",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.spread",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.toggleButtons",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.craftingtweaks.transfer_stack",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.curios.open.desc",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.entityculling.toggle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Reload Menu | CTRL + ALT + ",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Toggle Customization Overlay | CTRL + ALT + ",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.firstperson.toggle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/keybind.invmove.toggleMove",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.inventoryhud.openconfig",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.inventoryhud.togglearm",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.inventoryhud.toggle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.inventoryhud.togglepot",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.inventoryhud.toggleall",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jade.narrate",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jade.config",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jade.show_details",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jade.show_overlay",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.jade.toggle_liquid",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/Toggle Zoom",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.opengui.desc",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.changeMysticCode",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.drawMahoujin",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.settingsGUI",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.selectiveDisplacement",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/nimble.keybind.frontView",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.Breakfall",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.ClingToCliff",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.Crawl",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.Dodge",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.FastRun",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.Flipping",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.HangDown",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.HorizontalWallRun",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.openSetting",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.QuickTurn",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.Vault",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.WallJump",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.parcool.WallSlide",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.plasmovoice.settings",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.raised.chat.down",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.raised.chat.up",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.raised.hud.down",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.raised.hud.up",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.stellarview.open_config_screen",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.trashslot.deleteAll",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.trashslot.delete",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.trashslot.toggle",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.travelersbackpack.inventory",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.travelersbackpack.cycle_tool",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.travelersbackpack.toggle_tank",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.voice_chat_adjust_volumes",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.disable_voice_chat",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.hide_icons",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.mute_microphone",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.push_to_talk",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.voice_chat_toggle_recording",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.voice_chat",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.voice_chat_group",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.voice_chat_settings",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.whisper",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/key.wildfire_gender.gender_menu",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_alternative_list_players",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_enlarge_map",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_minimap_settings",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_new_waypoint",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_waypoints_key",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_instant_waypoint",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_reverse_entity_radar",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_switch_waypoint_set",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_display_all_sets",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_pac_chunk_claims",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_grid",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_entity_radar",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_waypoints",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_light_overlay",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_manual_cave_mode",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_map",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_map_waypoints",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_slime",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_toggle_tracked_players",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_zoom_in",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_zoom_out",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_open_settings",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_open_map",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_quick_confirm",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_map_zoom_in",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/mod/in/gui.xaero_map_zoom_out",
+      "requirement": "optional",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/global/in/lefthand",
+      "requirement": "suggested",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/global/in/righthand",
+      "requirement": "suggested",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/mixedreality/in/externalcamera",
+      "requirement": "optional",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/global/out/lefthaptic",
+      "requirement": "suggested",
+      "type": "vibration"
+    },
+    {
+      "name": "/actions/global/out/righthaptic",
+      "requirement": "suggested",
+      "type": "vibration"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/ingame",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/gui",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/global",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/mod",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/contextual",
+      "usage": "single"
+    },
+    {
+      "name": "/actions/keyboard",
+      "usage": "hidden"
+    },
+    {
+      "name": "/actions/mixedreality",
+      "usage": "hidden"
+    },
+    {
+      "name": "/actions/technical",
+      "usage": "hidden"
+    }
+  ]
+}

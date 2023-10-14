@@ -9,7 +9,7 @@ customization-meta {
 }
 
 customization {
-  path = background2.png
+  path = background3.png
   action = texturizebackground
 }
 
@@ -48,15 +48,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
-  x = 211
+  x = 209
   action = movebutton
-  y = -134
+  y = -135
 }
 
 customization {
@@ -64,6 +59,12 @@ customization {
   width = 75
   action = resizebutton
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttonlabel
+  value = Multiplayer (unused)
 }
 
 customization {
@@ -150,9 +151,15 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 98
+  width = 141
   action = resizebutton
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttonlabel
+  value = Singleplayer (Unsupported)
 }
 
 customization {
@@ -263,13 +270,13 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink;https://www.youtube.com/watch?v=VqB1uoDTdKM%btnaction_splitter_fm%
-  x = 576
+  x = 619
   width = 5
   action = addbutton
   actionid = a45db98c-af71-429b-94f3-1c6f239835c61695273074277
-  y = 178
+  y = 190
   label = 
-  height = 20
+  height = 21
 }
 
 customization {
@@ -288,18 +295,18 @@ customization {
   enable_scrolling = false
   shadow = false
   scale = 2.5
-  source = v1.7.3a
+  source = v1.8b
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -70
-  width = 140
+  x = -320
+  width = 640
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 4b5619a3-f6b4-4533-b1b4-f53708d0693a1689735813176
   y = -275
   alignment = centered
-  height = 40
+  height = 51
 }
 
 customization {
@@ -343,7 +350,7 @@ customization {
   skinurl = http://textures.minecraft.net/texture/803b46c610d3b459afa3266e327d6c2b33e6010456e8fa1fb4e9b3b94fa26e34
   crouching = false
   orientation_element = 587cd901-c979-426b-8d35-bf149ef71ddb1695076385045
-  x = -59
+  x = -31
   width = 18
   parrot_left_shoulder = false
   y = -5
@@ -355,13 +362,13 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = {"placeholder":"serverstatus","values":{"ip":"voxelshock.satellaview.dev"}}%n%{"placeholder":"serverplayercount","values":{"ip":"voxelshock.satellaview.dev"}}
+  source = {"placeholder":"serverstatus","values":{"ip":"voxelshock.satellaview.dev"}}%n%{"placeholder":"serverplayercount","values":{"ip":"voxelshock.satellaview.dev"}}%n%{"placeholder":"servermotd","values":{"ip":"voxelshock.satellaview.dev","line":"1"}}
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -17
-  width = 35
+  x = -50
+  width = 100
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 587cd901-c979-426b-8d35-bf149ef71ddb1695076385045
   y = -107
@@ -375,7 +382,7 @@ customization {
   restartbackgroundanimations = true
   orientation_element = 587cd901-c979-426b-8d35-bf149ef71ddb1695076385045
   buttonaction = joinserver;voxelshock.satellaview.dev%btnaction_splitter_fm%
-  x = -19
+  x = 13
   width = 75
   action = addbutton
   actionid = 22f3e8f9-502a-48c7-aa95-2d0ada2f8bca1695076869767
@@ -395,10 +402,10 @@ customization {
   bouncing = false
   vanilla-like = false
   orientation_element = 4b5619a3-f6b4-4533-b1b4-f53708d0693a1689735813176
-  x = 10
+  x = 250
   actionid = 9ea358f8-da4a-40a8-b0b0-f1e3feb757271695272730502
   action = addsplash
-  y = -53
+  y = -47
 }
 
 customization {
@@ -413,5 +420,21 @@ customization {
   y = -37
   label = Discord Server
   height = 20
+}
+
+customization {
+  identifier = %id=604346%
+  orientation = bottom-right
+  x = -56
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=604322%
+  orientation = bottom-right
+  x = -56
+  action = movebutton
+  y = -39
 }
 

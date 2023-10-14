@@ -1,0 +1,20 @@
+
+
+
+
+profile Saved activate HOT5
+	HOT1
+		"minecraft:diamond_sword" -> "Enchantments" : [{id:"minecraft:smite",lvl:3},{id:"minecraft:sharpness",lvl:1}]
+	HOT2
+		"minecraft:diamond_pickaxe"
+	HOT3
+		"minecraft:iron_axe" -> "Enchantments" : [{id:"minecraft:sharpness",lvl:1}]
+	HOT4
+		"minecraft:lava_bucket"
+	HOT5
+		"minecraft:blaze_spawn_egg"
+	HOT9
+		"minecraft:cooked_salmon"
+	OFFHAND
+		"minecraft:torch"
+

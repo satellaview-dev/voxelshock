@@ -104,7 +104,32 @@
     "portb.biggerstacks.gui.ConfigureScreen": true,
     "de.keksuccino.fancymenu.menu.fancy.helper.layoutcreator.LayoutEditorScreen": true,
     "de.keksuccino.fancymenu.menu.fancy.helper.ui.FMConfigScreen": true,
-    "de.keksuccino.fancymenu.menu.fancy.helper.layoutcreator.PreloadedLayoutEditorScreen": true
+    "de.keksuccino.fancymenu.menu.fancy.helper.layoutcreator.PreloadedLayoutEditorScreen": true,
+    "me.shedaniel.rei.impl.client.gui.error.ErrorsScreen": true,
+    "org.anti_ad.mc.ipnext.gui.ConfigScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.UncertainDisplayViewingScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
+    "net.povstalec.stellarview.client.screens.config.ConfigScreen": true,
+    "net.povstalec.stellarview.client.screens.config.GeneralConfigScreen": true,
+    "net.povstalec.stellarview.client.screens.config.OverworldConfigScreen": true,
+    "net.povstalec.stellarview.client.screens.config.GammaConfigScreen": true,
+    "net.povstalec.stellarview.client.screens.config.AlphaConfigScreen": true,
+    "fuzs.netherchested.client.gui.screens.inventory.NetherChestScreen": true,
+    "me.shedaniel.rei.impl.client.gui.credits.CreditsScreen": true,
+    "org.zeith.improvableskills.client.gui.GuiSkillsBook": true,
+    "org.zeith.improvableskills.client.gui.GuiXPBank": true,
+    "org.zeith.improvableskills.client.gui.GuiSkillViewer": true,
+    "xaero.map.gui.ExportScreen": true,
+    "org.vivecraft.client.gui.settings.GuiMainVRSettings": true,
+    "org.vivecraft.client.gui.settings.GuiHUDSettings": true,
+    "org.vivecraft.client.gui.settings.GuiQuickCommandsInGame": true,
+    "org.vivecraft.client.gui.settings.GuiRoomscaleSettings": true,
+    "org.vivecraft.client.gui.settings.GuiVRControls": true,
+    "org.vivecraft.client.gui.settings.GuiQuickCommandEditor": true,
+    "org.vivecraft.client.gui.settings.GuiStandingSettings": true,
+    "org.vivecraft.client.gui.settings.GuiFreeMoveSettings": true
   },
   "hideBackground": {
     "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,
@@ -119,6 +144,12 @@
     "net.minecraft.client.gui.screens.inventory.SmithingScreen": true,
     "gg.hipposgrumm.armor_trims.gui.SmithingScreenNew": true,
     "net.tslat.aoa3.client.gui.container.CorruptedTravellerScreen": true,
-    "net.tslat.aoa3.client.gui.adventgui.AdventMainGui": true
+    "net.tslat.aoa3.client.gui.adventgui.AdventMainGui": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.CompositeDisplayViewingScreen": true,
+    "fuzs.netherchested.client.gui.screens.inventory.NetherChestScreen": true,
+    "org.zeith.improvableskills.client.gui.GuiSkillsBook": true,
+    "org.zeith.improvableskills.client.gui.GuiXPBank": true,
+    "org.zeith.improvableskills.client.gui.GuiSkillViewer": true
   }
 }

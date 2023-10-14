@@ -192,7 +192,9 @@
       "satellaview_dev": "https://mc-heads.net/avatar/e4686ce691734104bbcc814529f8d0b1",
       "default": "https://via.placeholder.com/256.png",
       "voxelshock.satellaview.dev": "https://api.mcsrvstat.us/icon/voxelshock.satellaview.dev",
-      "playericon": "https://mc-heads.net/avatar/{player.name}"
+      "playericon": "https://mc-heads.net/avatar/{player.name}",
+      "localhost": "https://api.mcsrvstat.us/icon/localhost",
+      "192.168.0.197": "https://api.mcsrvstat.us/icon/192.168.0.197"
     },
     "dynamicVariables": {
       "default": "Example Text",

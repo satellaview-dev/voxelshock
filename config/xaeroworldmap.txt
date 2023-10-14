@@ -46,8 +46,8 @@ biomeBlending:true
 trackedPlayers:true
 multipleImagesExport:false
 nightExport:false
-highlightsExport:false
-exportScaleDownSquare:20
+highlightsExport:true
+exportScaleDownSquare:0
 displayClaims:true
 claimsFillOpacity:46
 claimsBorderOpacity:80

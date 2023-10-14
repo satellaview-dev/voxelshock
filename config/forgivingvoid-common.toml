@@ -10,7 +10,7 @@ fallingHeight = 300
 #Prevent death on void fall (limits damage to leave at least 0.5 hearts)
 preventDeath = false
 #Set to false to make Forgiving Void not trigger in the overworld void (dimension 0).
-triggerInOverworld = true
+triggerInOverworld = false
 #Set to false to make Forgiving Void not trigger in the nether void (dimension -1).
 triggerInNether = true
 #Set to false to make Forgiving Void not trigger in the end void (dimension 1).

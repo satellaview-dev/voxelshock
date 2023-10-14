@@ -1,0 +1,287 @@
+{
+	"basics": {
+		"favorites": [
+			"{data:{Count:1b,ForgeCaps:{Parent:{MAHOUTSUKAI_ATTACK_CAP:0.0d,MAHOUTSUKAI_ATTACK_DAMAGE:0.0f}},id:\"mahoutsukai:morgan\",tag:{Damage:1},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:dark_oak_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:nether_quartz_ore\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:redstone_ore\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:deepslate_gold_ore\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:basalt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"majruszsdifficulty:wither_sword\",tag:{Damage:0,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bow\",tag:{Damage:302},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:wither_rose\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:potion\",tag:{Potion:\"minecraft:poison\"},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"comforts:sleeping_bag_white\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:leather\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:beef\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_pickaxe\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:coal\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:potion\",tag:{Potion:\"minecraft:long_fire_resistance\"},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:rotten_flesh\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:porkchop\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_ingot\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:soapstone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"improvableskills:scroll_normal\",tag:{Skill:\"improvableskills:generic_protection\"},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:lapis_lazuli\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:white_bed\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:golden_apple\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:raw_iron_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"janoeo_foundation:diamond_nugget\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:apple\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:enchanted_book\",tag:{StoredEnchantments:[{id:\"bigbrain:turning\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:music_disc_cat\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:blast_furnace\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_horse_armor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:calcite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:redstone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:clay_ball\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stone_bricks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:ender_pearl\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:amethyst_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_bars\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:string\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:sugar\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:brewing_stand\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:gold_ingot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:amethyst_shard\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:music_disc_13\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:gold_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"improvableskills:parchment_fragment\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:lapis_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:blaze_spawn_egg\",tag:{CustomModelData:290000,EntityTag:{NoAI:1b,Silent:1b,Tags:[\"wp.spawn_0\"]},display:{Lore:['{\"text\":\"Tier 1\"}','{\"text\":\"Range 1k\"}'],Name:'{\"text\":\"Warp Pad\",\"italic\":false}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:paper\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:wheat_seeds\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:name_tag\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cooked_salmon\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bowl\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:hay_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cooked_beef\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:heart_of_the_sea\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"endrem:lost_eye\",tag:{Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:jacaranda_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_boots\",tag:{Damage:54},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:melon_slice\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_helmet\",tag:{Damage:52},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_axe\",tag:{Damage:68},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bucket\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_pickaxe\",tag:{Damage:601},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_axe\",tag:{Damage:7,Enchantments:[{id:\"minecraft:sharpness\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:prismarine_crystals\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_sword\",tag:{Damage:302,Enchantments:[{id:\"minecraft:smite\",lvl:3s},{id:\"minecraft:sharpness\",lvl:1s}],RepairCost:1},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_chestplate\",tag:{Damage:118,RepairCost:1},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_leggings\",tag:{Damage:84},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:chicken\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"janoeo_foundation:lapis_nugget\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cooked_porkchop\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:amaranth\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"armor_trims:wild_armor_trim_smithing_template\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:imbued_blue_enchanted_log\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:carrot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:salmon\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_leggings\",tag:{Damage:98},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stick\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:shield\",tag:{BlockEntityTag:{Base:15,Patterns:[{Color:14,Pattern:\"sku\"},{Color:15,Pattern:\"hh\"},{Color:15,Pattern:\"cre\"},{Color:15,Pattern:\"bs\"},{Color:8,Pattern:\"tts\"}],id:\"minecraft:banner\"},Damage:0},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:zombie_spawn_egg\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cobbled_deepslate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bone_meal\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:dirt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cobblestone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:red_mushroom\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:water_bucket\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:written_book\",tag:{author:\"Frozytime\",display:{Lore:['{\"text\":\" \"}','{\"italic\":false,\"color\":\"gray\",\"text\":\"A guide to the Mine Treasure data pack.\"}']},pages:['{\"text\":\"\\\\n\\\\n\\\\n\\\\n\\\\n  Mine Treasure\\\\n\\\\n - Better mining.\",\"color\":\"black\",\"bold\":true}','[{\"text\":\"\\\\nIntroduction:\",\"color\":\"black\",\"bold\":true,\"italic\":false},{\"text\":\"\\\\nPage: 3\",\"color\":\"black\",\"bold\":false,\"italic\":false},{\"text\":\"\\\\nTreasure-types:\",\"color\":\"black\",\"bold\":true,\"italic\":false},{\"text\":\"\\\\nPage: 4-7\",\"color\":\"black\",\"bold\":false,\"italic\":false},{\"text\":\"\\\\nBiome-specific:\\\\n\",\"color\":\"black\",\"bold\":true,\"italic\":false},{\"text\":\"Page: 8-15\",\"bold\":false},{\"text\":\"\\\\nStone-types:\\\\n\",\"bold\":true},{\"text\":\"Page: 16-18\",\"bold\":false},{\"text\":\"\\\\nLoot Progression:\\\\n\"},{\"text\":\"Page: 19\",\"bold\":false,\"italic\":false},{\"text\":\"\\\\nCustom Items:\\\\n\"},{\"text\":\"Page: 20-22\",\"bold\":false}]','{\"text\":\"Mine Treasure is a data pack designed to enhance Minecraft\\'s mining aspect. Mining stone-related blocks will give the player the possibility to find a Treasure. These Treasure differ in rarity and types such as tiers and biome-specific loot.\",\"color\":\"black\",\"italic\":false}','[{\"text\":\"Common Treasure:\",\"color\":\"#8C817E\",\"italic\":false},{\"text\":\"\\\\n\\\\nHas a 1.375% chance to spawn. Meaning it is the most common out of any Treasure. The loot contained in them are very basic and mediocre. Their convenience comes in an easier way of obtaining common resources.\",\"color\":\"black\",\"bold\":false}]','[{\"text\":\"Rare Treasure:\",\"color\":\"blue\"},{\"text\":\"\\\\n\\\\nHas a 0.344% chance to spawn. Contains decent loot such as tools, armor and other utilities which are quite decent. These can hold quite powerful items as well if the player is lucky to stumble upon them.\",\"color\":\"black\",\"italic\":false}]','[{\"text\":\"Epic Treasure:\",\"color\":\"red\"},{\"text\":\"\\\\n\\\\nHas a 0.043% chance to spawn. The loot is reaching end-game levels of strength. Extremely useful items and utilities can be found in these Treasures. Potentially changing the game for the player who finds one.\",\"color\":\"black\"}]','[{\"text\":\"Legendary Treasure:\",\"color\":\"gold\",\"italic\":false},{\"text\":\"\\\\n\\\\nHas a 0.0215% chance to spawn. The best tier of loot one could imagine. Powerful weapons, armor and utility items which determines the outcome in any fight. If one is lucky enough to find one, they have a severe advantage.\",\"color\":\"black\"}]','[{\"text\":\"Biome-specific Treasures\",\"bold\":true},{\"text\":\" is a feature which makes every biome feel unique. Loot tables are heavily altered from biome to biome. However, some biomes have the same loot table due to their similarities. On the next page there will be a list displaying all the grouped biomes.\",\"bold\":false}]','[{\"text\":\"Default biomes:\",\"bold\":true},{\"text\":\"\\\\nPlains\\\\nRiver\\\\nForest\\\\nBirch Forest\\\\nOld Growth B. Forest\\\\nStony Shore\\\\nBeach\",\"bold\":false}]','[{\"text\":\"Ocean biomes:\\\\n\",\"bold\":true},{\"text\":\"Ocean\\\\nWarm Ocean\\\\nLukewarm Ocean\\\\nCold Ocean\\\\nDeep Ocean\\\\nDeep Cold Ocean\\\\nDeep Lukewarm Ocean\\\\nDeep Frozen Ocean\\\\nFrozen Ocean\",\"bold\":false}]','[{\"text\":\"Mountain biomes:\\\\n\",\"bold\":true},{\"text\":\"Jagged Peaks\\\\nFrozen Peaks\\\\nStony Peaks\\\\nGrove\\\\nSnowy Slopes\\\\n\",\"bold\":false},{\"text\":\"Ice biomes:\\\\n\"},{\"text\":\"Snowy Beach\\\\nSnowy Plains\\\\nIce Spikes\\\\nFrozen River\",\"bold\":false},{\"text\":\"\\\\n\\\\n\"},{\"text\":\"Dark Forest biome\",\"bold\":true}]','[{\"text\":\"Badlands biomes:\\\\n\",\"bold\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"\",\"bold\":true}]}},{\"text\":\"Badlands\\\\nWooded Badlands\\\\nEroded Badlands\\\\n\",\"bold\":false,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"\",\"bold\":true}]}},{\"text\":\"\\\\nLush Caves biome\\\\n\\\\nDripstone C. biome\\\\n\",\"bold\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"\",\"bold\":true}]}},{\"text\":\"\\\\nMushroom F. biome\\\\n\\\\nSwamp biomes:\\\\n\",\"bold\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"\",\"bold\":true}]}},{\"text\":\"Swamp\\\\nMangrove Swamp\",\"bold\":false,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"\",\"bold\":true}]}},{\"text\":\"\\\\n\",\"bold\":true,\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"\",\"bold\":true}]}}]','[{\"text\":\"Taiga biomes:\\\\n\",\"bold\":true},{\"text\":\"Taiga\\\\nSnowy Taiga\\\\nOld G. Pine Taiga\\\\nOld G. Spruce Taiga\\\\n\",\"bold\":false},{\"text\":\"\\\\nDesert biome\\\\n\\\\nSavanna biomes:\\\\n\",\"bold\":true},{\"text\":\"Savanna\\\\nSavanna Plateau\\\\nWindswept Savanna\",\"bold\":false}]','[{\"text\":\"Jungle biomes:\\\\n\",\"bold\":true},{\"text\":\"Jungle\\\\nSparse Jungle\\\\nBamboo Jungle\\\\n\",\"bold\":false},{\"text\":\"Flower biomes:\\\\n\",\"bold\":true},{\"text\":\"Flower Forest\\\\nSunflower Plains\\\\nMeadow\\\\n\",\"bold\":false},{\"text\":\"Wind Biomes:\",\"bold\":true},{\"text\":\"\\\\nWindswept Forest\\\\nWindswept Hills\\\\nWindswept G. Hills\\\\n\\\\n\",\"bold\":false}]','[{\"text\":\"Deep Dark biome\\\\n\\\\nSoul Valley biome \\\\n\\\\nNether Default biomes:\\\\n\",\"bold\":true},{\"text\":\"Nether Wastes\\\\nCrimson Forest\\\\nWarped Forest\\\\n\\\\n\",\"bold\":false},{\"text\":\"Basalt Deltas biome\\\\n\\\\nEnd biome\\\\n\\\\n\",\"bold\":true}]','[{\"text\":\"Stone-types:\",\"bold\":true,\"italic\":false},{\"text\":\"\\\\nStone-types are extremely important when it comes to Mine Treasure. They have different treasure spawn rates. Stone has the standard \\\\nCommon: 1.375% \\\\nRare: 0.344%\\\\nEpic: 0.043%\\\\nLegendary: 0.215%\",\"bold\":false}]','{\"text\":\"Granite: Higher epic rates at the cost of lower common and rare\\\\nDiorite: Higher common rates, but lower epic and rare\\\\nAndesite/Magma Block: Higher rare, lower common and epic\\\\nOres: Higher everything\"}','{\"text\":\"Deepslate/End stone: Higher everything\\\\nDeepslate Ore: Even higher\\\\nDiamond Ore: Highest possible chance for everything.\\\\nStrategy is to instamine Stone ASAP and try to find an Efficiency 9+ Pickaxe in the Deep Dark or Mountain \"}','[{\"text\":\"Loot Progression:\\\\n\",\"bold\":true},{\"text\":\"The amount of blocks mined will be counted towards unlocking new items in treasures. \\\\n\\\\nThe amount of loot is also increased per 50000 blocks mined and depending on how many treasures you have gotten already.\",\"bold\":false,\"italic\":false}]','[{\"text\":\"Custom Items:\\\\n\",\"bold\":true},{\"text\":\"Most of the custom items spawn with random attributes, making every weapon feel unique. Many of them are Biome Pieces. These pieces of armor are extremely powerful and easily surpasses Netherite. Armor values may go up as high as 20% higher than Netherite.\",\"bold\":false}]','{\"text\":\"There are also custom weapons which are way more powerful than vanilla weapons. Some rival End Crystals explosions on hard mode in damage. One can combine different sets to utilize a weapon to its full potential.\"}','{\"text\":\"Utility items define the outcome of a battle. Such as custom arrows, potions, horns, food items and much more. Be careful however, as many of them are capable of great destruction. Most items have descriptions which state what it does.\"}','[{\"text\":\"Tips and Tricks:\\\\n\",\"bold\":true},{\"text\":\"The faster one mines, the higher likelihood of finding a Treasure. Mountain Common Treasures may give Haste II potions and the Deep Dark biome ones may have a great chance for a Diamond Pickaxe. The Deep Dark is usually beneath mountains.\",\"bold\":false}]','{\"text\":\"An Ultimate Flight Rocket from the End Legendary Treasure is capable of going 1900 blocks upwards in 1 use. \\\\n\\\\nUnstable TNT is lit by punching it.\\\\n\\\\nDesolation Rockets deal an insane amount of damage.\"}','{\"text\":\"Enchanted Chorus Fruit teleports the user in a range of 50 blocks.\\\\n\\\\nXP juice can fully restore a Netherite set in 1 use.\\\\n\\\\nDark Meat and the leggings of the Deep Dark are an excellent combo. \"}','{\"text\":\"Nothing is immune to the Hunger effect.\\\\n\\\\nCertain stats stack with armor, weapons and utility items.\\\\n\\\\nThe custom Totems of Undying give 1 second of immortality.\\\\n\\\\nLegendary Default Treasure is not a bad loot table.\"}','{\"text\":\"Thank you for downloading my data pack, I sincerely hope you enjoy it. \\\\n\\\\n\\\\nFeedback is appreciated!\\\\n\\\\n\\\\n\\\\n\\\\n- Frozytime\"}'],title:\"Mine Treasure\"},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:structure_block\",tag:{CustomModelData:8360003,display:{Lore:['{\"italic\":true,\"color\":\"#106050\",\"translate\":\"pack.manic\"}']},manic:{id:\"lysosome\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:golden_chestplate\",tag:{Damage:0,Enchantments:[{id:\"minecraft:protection\",lvl:6s},{id:\"minecraft:binding_curse\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_leggings\",tag:{Damage:139},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bow\",tag:{Damage:194,Enchantments:[{id:\"minecraft:power\",lvl:2s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_nugget\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"endrem:undead_soul\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"janoeo_foundation:emerald_dust\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:torch\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:shield\",tag:{BlockEntityTag:{Base:15,Patterns:[{Color:14,Pattern:\"sku\"},{Color:15,Pattern:\"hh\"},{Color:15,Pattern:\"cre\"},{Color:15,Pattern:\"bs\"},{Color:8,Pattern:\"tts\"}],id:\"minecraft:banner\"},Damage:6},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_ingot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:imbued_green_enchanted_log\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:torch\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bread\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:leather_leggings\",tag:{Damage:29},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:wheat\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:arrow\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:subzero_crystal_shard\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:subzero_ash_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bow\",tag:{Damage:213},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:glowstone_dust\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"byg:travertine\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:gunpowder\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:gold_block\",tag:{},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"actuallyusefulsmithingtable:obsidian_plated_diamond_pickaxe\",tag:{Damage:476,RepairCost:1},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:potion\",tag:{Potion:\"minecraft:healing\"},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:diamond_sword\",tag:{Damage:724,Enchantments:[{id:\"minecraft:smite\",lvl:3s},{id:\"minecraft:sharpness\",lvl:1s}],RepairCost:3},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
+		"hiddenFavorites": [],
+		"displayHistory": [],
+		// Declares whether cheating mode is on.
+		"cheating": false,
+		"favoritesEnabled": false,
+		"keyBindings": {
+			"recipeKeybind": {
+				"keyCode": "key.keyboard.r",
+				"modifier": 0
+			},
+			"usageKeybind": {
+				"keyCode": "key.keyboard.u",
+				"modifier": 0
+			},
+			"hideKeybind": {
+				"keyCode": "key.keyboard.o",
+				"modifier": 2
+			},
+			"previousPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"nextPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"focusSearchFieldKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"copyRecipeIdentifierKeybind": {
+				"keyCode": "key.mouse.middle",
+				"modifier": 0
+			},
+			"favoriteKeybind": {
+				"keyCode": "key.keyboard.a",
+				"modifier": 0
+			},
+			"exportImageKeybind": {
+				"keyCode": "key.keyboard.f8",
+				"modifier": 0
+			},
+			"previousScreenKeybind": {
+				"keyCode": "key.keyboard.backspace",
+				"modifier": 0
+			}
+		},
+		// Declares whether REI is visible.
+		"overlayVisible": true,
+		"cheatingStyle": "GRAB",
+		"motion": {
+			"favoritesAnimation": true
+		}
+	},
+	"advanced": {
+		"filtering": {
+			"shouldFilterDisplays": true,
+			"filteringRules": [
+				"{id:\"roughlyenoughitems:manual\",rule:{}}",
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
+			],
+			"filteringQuickCraftCategories": { },
+			"filteredStacks": []
+		},
+		"enableJeiCompatibilityLayer": true,
+		"tooltips": {
+			// Declares whether REI should append mod names to entries.
+			"appendModNames": true,
+			// Declares whether favorites tooltip should be displayed.
+			"displayFavoritesTooltip": true,
+			"displayIMEHints": true
+		},
+		"layout": {
+			// The ordering of the items on the entry panel.
+			"entryPanelOrdering": "REGISTRY_ASCENDING",
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPerPage": 8,
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPageHeight": 300,
+			// Declares whether entry rendering time should be debugged.
+			"debugRenderTimeRequired": false,
+			// Merges displays with equal contents under 1 display.
+			"mergeDisplayUnderOne": true,
+			"favoriteAddWidgetMode": "ALWAYS_VISIBLE"
+		},
+		"accessibility": {
+			"entrySize": 1.0,
+			// Declares the position of the entry panel.
+			"displayPanelLocation": "LEFT",
+			// Declares how the scrollbar in composite screen should act.
+			"compositeScrollBarPermanent": false,
+			"toastDisplayedOnCopyIdentifier": true,
+			// Declares whether REI should use compact tabs for categories.
+			"useCompactTabs": true,
+			// Declares whether REI should use compact tab buttons for categories.
+			"useCompactTabButtons": false
+		},
+		"search": {
+			// Declares whether search time should be debugged.
+			"debugSearchTimeRequired": false,
+			// Declares whether REI should search async.
+			"asyncSearch": true,
+			// Declares how many entries should be grouped one async search.
+			"asyncSearchPartitionSize": 100,
+			"patchAsyncThreadCrash": true,
+			"tooltipSearch": "ALWAYS",
+			"tagSearch": "PREFIX",
+			"identifierSearch": "ALWAYS",
+			"modSearch": "PREFIX"
+		},
+		"commands": {
+			// Declares the command used to change gamemode.
+			"gamemodeCommand": "/gamemode {gamemode}",
+			// Declares the command used in servers to cheat items.
+			"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
+			// Declares the command used to change weather.
+			"weatherCommand": "/weather {weather}",
+			// Declares the command used to change time.
+			"timeCommand": "/time set {time}"
+		},
+		"miscellaneous": {
+			// Declares whether arrows in containers should be clickable.
+			"clickableRecipeArrows": true,
+			"registerRecipesInAnotherThread": true,
+			"newFastEntryRendering": true,
+			"cachingFastEntryRendering": false,
+			"cachingDisplayLookup": true
+		}
+	},
+	"appearance": {
+		"recipeScreenType": "COMPOSITE",
+		// Declares the appearance of REI windows.
+		"theme": "LIGHT",
+		"layout": {
+			// Declares the position of the search field.
+			"searchFieldLocation": "TOP_SIDE",
+			// Declares the position of the config button.
+			"configButtonLocation": "UPPER",
+			// Declares whether the craftable filter button is enabled.
+			"showCraftableOnlyButton": false
+		},
+		// Declares the appearance of recipe's border.
+		"recipeBorder": "DEFAULT",
+		// Declares whether entry panel is scrolled.
+		"scrollingEntryListWidget": true,
+		"horizontalEntriesBoundaries": 0.5,
+		"verticalEntriesBoundaries": 1.0,
+		"horizontalEntriesBoundariesColumns": 50,
+		"verticalEntriesBoundariesRows": 1000,
+		"favoritesHorizontalEntriesBoundaries": 1.0,
+		"favoritesHorizontalEntriesBoundariesColumns": 50,
+		"syntaxHighlightingMode": "COLORFUL",
+		"isFocusModeZoomed": false
+	},
+	"functionality": {
+		"inputMethod": null,
+		// Declares whether REI should remove the recipe book.
+		"disableRecipeBook": true,
+		// Declares whether mob effects should be on the left side instead of the right side.
+		"leftSideMobEffects": true,
+		// Declares whether subsets is enabled.
+		"isSubsetsEnabled": false,
+		"allowInventoryHighlighting": true,
+		"itemCheatingMode": "REI_LIKE"
+	}
+}

@@ -35,7 +35,7 @@ optionsButton = true
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.
-			horizontalScale = 12
+			horizontalScale = 64
 			# This indicates how quickly fake chunks decrease in quality the further away they are. 
 			# Higher settings will render higher quality fake chunks farther away, 
 			# but will increase memory and GPU usage.

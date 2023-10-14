@@ -17,7 +17,7 @@
 	#Whether or not to hide your own GUI.
 	"Hide GUI" = false
 	#Whether or not to render all HUD elements as percentages instead.
-	"Numbers As Percentages" = false
+	"Numbers As Percentages" = true
 	#How to handle health beyond the maximum. Will do nothing if Numbers As Percentage is disabled.
 	#Valid values: none, percentage, additional, compare
 	"Extra Number Type" = "additional"
