@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:true
 directionalAudio:true
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -27,12 +27,12 @@ screenEffectScale:0.24413145539906098
 fovEffectScale:0.0
 darknessEffectScale:0.28403755868544606
 gamma:1.0
-renderDistance:7
+renderDistance:15
 simulationDistance:5
-entityDistanceScaling:0.5
+entityDistanceScaling:1.0
 guiScale:3
 particles:0
-maxFps:300
+maxFps:260
 graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
@@ -113,22 +113,12 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_vivecraft.key.rotateLeft:key.keyboard.unknown
-key_vivecraft.key.rotateRight:key.keyboard.unknown
-key_vivecraft.key.teleport:key.keyboard.unknown
-key_vivecraft.key.teleportFallback:key.keyboard.unknown
-key_vivecraft.key.toggleMovement:key.keyboard.unknown
-key_vivecraft.key.quickTorch:key.keyboard.unknown
-key_vivecraft.key.swapMirrorView:key.keyboard.unknown
-key_vivecraft.key.exportWorld:key.keyboard.unknown
-key_vivecraft.key.moveThirdPersonCam:key.keyboard.unknown
-key_vivecraft.key.togglePlayerList:key.keyboard.unknown
-key_vivecraft.key.toggleHandheldCam:key.keyboard.unknown
-key_vivecraft.key.quickHandheldCam:key.keyboard.unknown
 key_key.hammerlib.render_item:key.keyboard.unknown
 key_info.structure_gel.building_tool.undo:key.keyboard.z:CONTROL
 key_info.structure_gel.building_tool.redo:key.keyboard.y:CONTROL
 key_key.structure_gel.open_building_tool_gui:key.keyboard.r
+key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.l
+key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
@@ -136,7 +126,6 @@ key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.travelersbackpack.inventory:key.keyboard.i
 key_key.travelersbackpack.toggle_tank:key.keyboard.apostrophe
 key_key.travelersbackpack.cycle_tool:key.keyboard.backslash
-key_key.plasmovoice.settings:key.keyboard.v
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
@@ -173,8 +162,6 @@ key_gui.xaero_toggle_tracked_players:key.keyboard.unknown
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_key.stellarview.open_config_screen:key.keyboard.unknown
-key_key.forgeshot.screenshot:key.keyboard.f9
-key_key.forgeshot.screenshot_gui:key.keyboard.f8
 key_gui.xaero_open_map:key.keyboard.g
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
@@ -211,6 +198,7 @@ key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details:key.keyboard.left.shift
+key_key.weaponmaster.opengui:key.keyboard.v
 key_key.parcool.Crawl:key.keyboard.c
 key_key.parcool.ClingToCliff:key.mouse.right
 key_key.parcool.Breakfall:key.keyboard.r
@@ -231,13 +219,10 @@ key_key.inventoryhud.togglearm:key.keyboard.unknown
 key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
-key_key.raised.hud.down:key.keyboard.unknown
-key_key.raised.hud.up:key.keyboard.unknown
-key_key.raised.chat.down:key.keyboard.page.down
-key_key.raised.chat.up:key.keyboard.page.up
+key_key.raised.options:key.keyboard.keypad.0
 key_Toggle Zoom:key.keyboard.k
 key_key.armor_visibility.armor_visibility_toggle:key.keyboard.equal
-key_key.craftpresence.config_keycode.name:key.keyboard.keypad.multiply
+key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
 key_keybind.invmove.toggleMove:key.keyboard.unknown
@@ -249,7 +234,7 @@ soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.5023474178403754
+soundCategory_ambient:0.33227358336062923
 soundCategory_voice:1.0
 modelPart_cape:false
 modelPart_jacket:true

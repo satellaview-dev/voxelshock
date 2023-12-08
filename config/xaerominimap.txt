@@ -1,5 +1,5 @@
 #CONFIG ONLY OPTIONS
-ignoreUpdate:0
+ignoreUpdate:369
 settingsButton:false
 allowWrongWorldTeleportation:false
 differentiateByServerAddress:true
@@ -105,6 +105,7 @@ caveModeToggleTimer:1000
 legibleCaveMaps:true
 biomeBlending:true
 displayTrackedPlayers:true
+dimensionScaledMaxWaypointDistance:true
 displayClaims:true
 displayCurrentClaim:true
 claimsFillOpacity:46

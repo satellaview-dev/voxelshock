@@ -24,8 +24,8 @@
     "sky_colors": true
   },
   "render_settings": {
-    "fog_distance": 32,
-    "fog_start": 20,
+    "fog_distance": 33,
+    "fog_start": 100,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
       "minecraft:overworld": 33,
@@ -35,7 +35,7 @@
     "use_linear_flat_color_blender": false,
     "light_updates": true,
     "item_frame": true,
-    "armor_stand": false,
+    "armor_stand": true,
     "painting": true,
     "piston": true,
     "beacon_beam": true,
@@ -50,7 +50,7 @@
     "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": true,
-    "use_adaptive_sync": false,
+    "use_adaptive_sync": true,
     "cloud_height": 192,
     "toasts": true,
     "advancement_toast": true,

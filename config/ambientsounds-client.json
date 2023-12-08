@@ -2,7 +2,7 @@
   "general": {
     "engines": 0,
     "volume": 1,
-    "useSoundMasterSource": false,
+    "useSoundMasterSource": true,
     "scanStepAmount": 100
   },
   "dimensions": {

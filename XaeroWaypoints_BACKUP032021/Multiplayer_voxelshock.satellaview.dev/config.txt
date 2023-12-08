@@ -1,5 +1,5 @@
 //waypoints config options
-usingMultiworldDetection:true
+usingMultiworldDetection:false
 ignoreServerLevelId:false
 teleportationEnabled:true
 usingDefaultTeleportCommand:true

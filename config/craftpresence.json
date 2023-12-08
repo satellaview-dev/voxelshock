@@ -9,6 +9,7 @@
     "detectMultiMCManifest": true,
     "detectMCUpdaterInstance": true,
     "detectTechnicPack": true,
+    "detectModrinthPack": true,
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
@@ -145,18 +146,8 @@
         "alpha": 208
       }
     },
-    "buttonBackground": {
-      "start": {
-        "red": 255,
-        "green": 255,
-        "blue": 255,
-        "alpha": 255
-      },
-      "texLocation": "minecraft:textures/gui/widgets.png"
-    },
     "languageId": "en_us",
     "stripTranslationColors": false,
-    "showLoggingInChat": false,
     "stripExtraGuiElements": false,
     "renderTooltips": true,
     "configKeyCode": 332
@@ -192,9 +183,7 @@
       "satellaview_dev": "https://mc-heads.net/avatar/e4686ce691734104bbcc814529f8d0b1",
       "default": "https://via.placeholder.com/256.png",
       "voxelshock.satellaview.dev": "https://api.mcsrvstat.us/icon/voxelshock.satellaview.dev",
-      "playericon": "https://mc-heads.net/avatar/{player.name}",
-      "localhost": "https://api.mcsrvstat.us/icon/localhost",
-      "192.168.0.197": "https://api.mcsrvstat.us/icon/192.168.0.197"
+      "playericon": "https://mc-heads.net/avatar/{player.name}"
     },
     "dynamicVariables": {
       "default": "Example Text",

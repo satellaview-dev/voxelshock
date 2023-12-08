@@ -133,5 +133,6 @@
 	"additionalMeleeWeapons": null,
 	"additionalRangedWeapons": null,
 	"additionalThrowables": null,
-	"additionalUsableItems": null
+	"additionalUsableItems": null,
+	"additionalInteractableBlocks": null
 }

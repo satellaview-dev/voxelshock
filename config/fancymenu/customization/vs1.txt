@@ -48,6 +48,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = 209
   action = movebutton
@@ -286,16 +291,16 @@ customization {
   width = 320
   action = addtexture
   actionid = 5d7f9e37-bc4d-401f-9873-b0e8f4899cad1689508305424
-  y = -56
+  y = -55
   height = 100
 }
 
 customization {
-  orientation = bottom-centered
+  orientation = top-centered
   enable_scrolling = false
   shadow = false
   scale = 2.5
-  source = v1.8b
+  source = v1.8.2b
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -304,7 +309,7 @@ customization {
   width = 640
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 4b5619a3-f6b4-4533-b1b4-f53708d0693a1689735813176
-  y = -275
+  y = 64
   alignment = centered
   height = 51
 }
@@ -362,7 +367,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = {"placeholder":"serverstatus","values":{"ip":"voxelshock.satellaview.dev"}}%n%{"placeholder":"serverplayercount","values":{"ip":"voxelshock.satellaview.dev"}}%n%{"placeholder":"servermotd","values":{"ip":"voxelshock.satellaview.dev","line":"1"}}
+  source = {"placeholder":"serverstatus","values":{"ip":"voxelshock.satellaview.dev"}}%n%{"placeholder":"serverplayercount","values":{"ip":"voxelshock.satellaview.dev"}}
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -423,18 +428,22 @@ customization {
 }
 
 customization {
-  identifier = %id=604346%
-  orientation = bottom-right
-  x = -56
-  action = movebutton
-  y = -20
-}
-
-customization {
-  identifier = %id=604322%
-  orientation = bottom-right
-  x = -56
-  action = movebutton
-  y = -39
+  orientation = element
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"servermotd","values":{"ip":"voxelshock.satellaview.dev:25565","line":"1"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  orientation_element = 22f3e8f9-502a-48c7-aa95-2d0ada2f8bca1695076869767
+  x = -114
+  width = 302
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = c3aa43fb-cab7-4f44-a53c-ccaa8618edbf1701734546837
+  y = -56
+  alignment = centered
+  height = 122
 }
 

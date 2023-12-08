@@ -1,4 +1,4 @@
-ignoreUpdate:0
+ignoreUpdate:170
 updateNotification:true
 allowInternetAccess:true
 differentiateByServerAddress:true
@@ -46,8 +46,9 @@ biomeBlending:true
 trackedPlayers:true
 multipleImagesExport:false
 nightExport:false
-highlightsExport:true
+highlightsExport:false
 exportScaleDownSquare:0
+mapWritingDistance:-1
 displayClaims:true
 claimsFillOpacity:46
 claimsBorderOpacity:80

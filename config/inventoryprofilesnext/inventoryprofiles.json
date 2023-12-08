@@ -8,8 +8,7 @@
         },
         "enable_inventory_settings_button": {
             "value": false
-        },
-        "continuous_crafting_saved_value": false
+        }
     },
     "AutoRefillSettings": {
         "refill_before_tool_break": {

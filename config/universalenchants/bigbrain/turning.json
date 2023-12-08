@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:buckler"
+  ],
+  "incompatible": [
+    "bigbrain:bang"
+  ]
+}

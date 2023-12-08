@@ -121,15 +121,9 @@
     "org.zeith.improvableskills.client.gui.GuiSkillsBook": true,
     "org.zeith.improvableskills.client.gui.GuiXPBank": true,
     "org.zeith.improvableskills.client.gui.GuiSkillViewer": true,
+    "loaderCommon.forge.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen": true,
     "xaero.map.gui.ExportScreen": true,
-    "org.vivecraft.client.gui.settings.GuiMainVRSettings": true,
-    "org.vivecraft.client.gui.settings.GuiHUDSettings": true,
-    "org.vivecraft.client.gui.settings.GuiQuickCommandsInGame": true,
-    "org.vivecraft.client.gui.settings.GuiRoomscaleSettings": true,
-    "org.vivecraft.client.gui.settings.GuiVRControls": true,
-    "org.vivecraft.client.gui.settings.GuiQuickCommandEditor": true,
-    "org.vivecraft.client.gui.settings.GuiStandingSettings": true,
-    "org.vivecraft.client.gui.settings.GuiFreeMoveSettings": true
+    "team.creative.creativecore.common.gui.integration.GuiScreenIntegration": true
   },
   "hideBackground": {
     "fuzs.mindfuldarkness.client.gui.screens.PixelConfigScreen": true,

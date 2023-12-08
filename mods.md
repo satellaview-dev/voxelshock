@@ -1,161 +1,245 @@
 
 # Modlist (as of v1.7.2a)
 ```
-AI Improvements
-Actually Useful Smithing Table
-Ambient Environment
-AmbientSounds
-Advent Of Ascension
-AttributeFix
-Axes Are Weapons
-Better Advancements
-Better Animations Collection
-Boat Item View
-Bookshelf
-Chunky
-ClearDespawn
-Clumps
-Controlling
-CorgiLib
-CraftPresence
-CreativeCore
-DamageVignette
-Distant Horizons
-Durability101
-Easy Magic
-Emojiful
-Enchantment Descriptions
-Eyes in the Darkness
-Wildfire's Female Gender Mod
-FilledTotheBrim
-From The Fog
-Item Highlighter
-Iceberg
-Incendium
-InvMove
-Item Borders
-Jade 🔍
-Leaves Be Gone
-Legendary Tooltips
-Mindful Darkness
-Mouse Tweaks
-Nimble
-No Auto Jump
-Nullscape
-OfflineSkins
-Oh The Biomes You'll Go
-Overflowing Bars
-OverpoweredMending
-ParCool!
-Prism
-Puzzles Lib
-Rally Health
-Re:Skin
-Searchables
-SekCore Lib
-Stylish Effects
-TerraBlender
-Terralith
-TexTrue's Rubidium Options
-TipTheScales
-Tips
-Tool Stats
-Towns and Towers
-Traveler's Backpack
-Traveler's Titles
-Universal Enchants
-Warrior Rage
-Xaero's World Map
-Xaero's Minimap
-YUNG's API
-APTweaks: Core
-APTweaks: Mods
-AppleSkin
-Architectury API
-Armor Visibility
-Armor Trims Backport
-Ash API
-Async Locator
-Balm
-Beautified Chat [Client]
-Better Combat
-Bigger Stacks
-Calm Mornings
-Canary
-Catalogue
-Cave Noise
-Client Tweaks
-Cloth Config API
-Collective
-Combat Roll
-Comforts
-Configured
-Controllable
-CraftingTweaks
-Cristel Lib
-Default Options
-Drippy Loading Screen
-Dungeons and Taverns
-Dynamic Player Progression and Player Difficulty
-Dynamic Crosshair
-Dynamic Crosshair Compat
-e4mc
-Ender Dragon Fight Remastered
-End Remastered
-[EMF] Entity Model Features
-[ETF] Entity Texture Features
-Entity Culling
-Explorify
-Fake Players
-FancyMenu
-Fast Portals
-Feathers
-FerriteCore
-First-person Model
-Forgiving Void
-Game Menu Mod Option
-Game Menu Remove GFARB
-Geckolib
-Geophilic
-Hourglass
-Inventory HUD+(Forge edition)
-It's The Little Things
-Just Zoom
-Konkrete
-Kotlin for Forge
-Let Me Despawn
-Load My Resources
-Mahou Tsukai
-Majrusz Library
-Majrusz's Progressive Difficulty
-Manic
-Memory Leak Fix
-MMOParties
-Mob Captains
-Not Enough Animations
-Not Enough Crashes
-overgrowth mod
-Shield Parry
-playerAnimator
-Time Stacker
-Radon
-Raised
-Rubidium
-Rubidium Extra
-Saturn
-Simply Swords
-Smooth Boot (Reloaded)
-Sound Physics Remastered
-spark
-Starlight (Forge)
-Structure Gel API
-Tectonic
-Tiny Item Animations
-Torch hit!
-TrashSlot
-Ultris: Boss Expansion
-Simple Voice Chat
-Cracker's Wither Storm Mod
-Why stacks of 16?
-Dungeons Crit Sound
+\mods\EnhancedNature-1.19.3-(v.1.1.0).jar
+\mods\entity_model_features_forge_1.19.3-1.0.2.jar
+\mods\entity_texture_features_forge_1.19.3-4.5.1.jar
+\mods\entityculling-forge-1.6.1-mc1.19.3.jar
+\mods\excavatedvariants-forge-1.19.3-2.2.0.jar
+\mods\explorations-forge-1.19.4-1.5.2.jar
+\mods\explorify-forge-1.19-1.3.0.jar
+\mods\EyesInTheDarkness-1.19.3-1.3.7.jar
+\mods\Fallingleaves-1.19.3-2.0.0.jar
+\mods\fancymenu_forge_2.14.7_MC_1.19.3.jar
+\mods\fantasyfurniture-1.19.3-7.0.0.jar
+\mods\fastportals-1.0.2-forge.jar
+\mods\feathers-1.0.3.jar
+\mods\Female-Gender-Mod-forge-1.19.3-3.0.1.jar
+\mods\ferritecore-5.1.0-forge.jar
+\mods\filenames.txt
+\mods\FilledToTheBrim-Forge-1.0.10.jar
+\mods\firstperson-forge-2.2.3-mc1.19.3.jar
+\mods\friendsandfoes-forge-mc1.19.3-2.0.2.jar
+\mods\From-The-Fog-1.19-v1.9.1-Forge-Fabric.jar
+\mods\fusion-1.1.0b-forge-mc1.19.3.jar
+\mods\gamemenumodoption-mc1.19.3-2.0.0.jar
+\mods\gamemenuremovegfarb-forge-mc1.19.3-2.0.0.jar
+\mods\gardens-of-the-dead-forge-3.0.0.jar
+\mods\geckolib-forge-1.19.3-4.0.6.jar
+\mods\geophilic-1.19-2.0.0b.jar
+\mods\GottschCore-mc1.19.3-f44.1.0-v2.0.5.jar
+\mods\HammerLib-1.19.3-19.5.57.jar
+\mods\handcrafted-forge-1.19.3-2.1.1.jar
+\mods\hearths-v1.0.0-mc1.19u1.19.3.jar
+\mods\Highlighter-1.19.3-forge-1.1.4.jar
+\mods\HopoBetterRuinedPortals-[1.19-1.19.3]-1.3.3.jar
+\mods\HopoBetterUnderwaterRuins-[1.19-1.19.3]-1.1.1.jar
+\mods\hourglass-1.19.1-1.2.1.1.jar
+\mods\hybrid-beta-0.10.1.jar
+\mods\Iceberg-1.19.3-forge-1.1.6.jar
+\mods\illagersweararmor-1.2.6.jar
+\mods\ImprovableSkills-1.19.3-19.4.8.jar
+\mods\improvedvanilla-forge-1.19.4-1.6.4.jar
+\mods\InventoryProfilesNext-forge-1.19.3-1.9.5.jar
+\mods\invhud.forge.1.19-3.4.7.jar
+\mods\InvMove-1.19-0.8.4-Forge.jar
+\mods\ItemBorders-1.19.3-forge-1.2.0.jar
+\mods\itemrarityfix-1.19.3-1.0.jar
+\mods\itemresistance-1.19.3-12.0.0.jar
+\mods\itlt-1.19.3-2.1.5-beta1.jar
+\mods\Jade-1.19.3-forge-9.4.1.jar
+\mods\Janoeo Foundation-8.12.0.90.jar
+\mods\justzoom_forge_1.0.1-1_MC_1.19.jar
+\mods\konkrete_forge_1.6.1_MC_1.19.3.jar
+\mods\kotlinforforge-4.5.0-all.jar
+\mods\larger-ore-veins-classic-1.0.6.jar
+\mods\larger-ore-veins-nether-1.1.0.jar
+\mods\LeavesBeGone-v5.0.0-1.19.3-Forge.jar
+\mods\LegendaryTooltips-1.19.3-forge-1.4.0.jar
+\mods\letmedespawn-1.18.x-1.19.x-forge-1.0.3.jar
+\mods\LetSleepingDogsLie-1.19.3-Forge-1.2.0.jar
+\mods\libIPN-forge-1.19.3-2.0.4.jar
+\mods\loadmyresources_forge_1.0.4_MC_1.19.3.jar
+\mods\mahoutsukai-1.19.3-v1.34.42.jar
+\mods\majrusz-library-1.19.3-3.3.0.jar
+\mods\majruszs-difficulty-1.19.3-1.7.3.jar
+\mods\manic-1.0.3.jar
+\mods\memoryleakfix-forge-1.17+-1.1.2.jar
+\mods\MindfulDarkness-v5.0.2-1.19.3-Forge.jar
+\mods\mmoparties-2.4.4.1.19.2.jar
+\mods\mob-captains-v2.1.2.jar
+\mods\MobDiceAttributes-mc1.19.3-f44.1.0-v1.0.0.jar
+\mods\more_fossils-2.0.0.jar
+\mods\more_mobs-v1.5-mc1.14x-1.20x-mod.jar
+\mods\morechathistory-1.0.0.jar
+\mods\MouseTweaks-forge-mc1.19.3-2.24.jar
+\mods\mvs-4.1-1.19.4-forge.jar
+\mods\NetherChested-v5.0.0-1.19.3-Forge.jar
+\mods\nether-under-overworld-1.0.0a.jar
+\mods\netherwart-1.19.3-6-forge.jar
+\mods\Nimble-1.19.3-forge-4.2.0.jar
+\mods\NoAutoJump-1.19.4-1.0.jar
+\mods\nohostilesaroundcampfire-1.19.3-5.4.jar
+\mods\no-telemetry-1.7.0.jar
+\mods\notenoughanimations-forge-1.6.3-mc1.19.3.jar
+\mods\notenoughcrashes-4.4.0+1.19.3-forge.jar
+\mods\Nullscape_1.19.3_v1.2.2.jar
+\mods\OfflineSkins-1.19.3-v1.jar
+\mods\Oh_The_Biomes_You'll_Go-forge-1.19.3-3.0.0.2.jar
+\mods\OverflowingBars-v5.0.0-1.19.3-Forge.jar
+\mods\overgrowth-1.19.3-1.0.6.jar
+\mods\OverpoweredMending-1.19.3-2.9.0.jar
+\mods\ParCool-1.19.3-3.0.1.0-R.jar
+\mods\parry-2.4.3.jar
+\mods\Philips-Ruins1.19.3-7.4.jar
+\mods\player-animation-lib-forge-1.0.2+1.19.3.jar
+\mods\polls-and-voting-1-DP.jar
+\mods\PotionTimeStacker-1.1.0-1.19.x.jar
+\mods\PresenceFootsteps-1.19.3-1.7.1-forge.jar
+\mods\Prism-1.19.3-forge-1.0.3.jar
+\mods\PuzzlesLib-v5.0.33-1.19.3-Forge.jar
+\mods\radon-0.8.2.jar
+\mods\Raided-1.19.3-0.1.3.jar
+\mods\raised-forge-1.19.3-3.1.0.jar
+\mods\RallyHealth-forge-1.19.3-1.3.1.jar
+\mods\rechiseled-1.1.5c-forge-mc1.19.3.jar
+\mods\ReSkin-2.6.1-universal.jar
+\mods\resourcefullib-1.2.7.jar
+\mods\RespawningAnimals-v5.0.0-1.19.3-Forge.jar
+\mods\Rex's-AdditionalStructures-1.19.x-(v.4.0.4).jar
+\mods\riding_partners-1.19.3-1.0.0-forge.jar
+\mods\RoughlyEnoughItems-10.0.646.jar
+\mods\rubidium-0.6.3.jar
+\mods\rubidium-extra-0.4.17+mc1.19.3-build.73.jar
+\mods\saturn-mc1.19.3-0.0.7.jar
+\mods\Searchables-forge-1.19.3-1.0.1.jar
+\mods\SekCLib-1.19-1.19.3-0.4.3-universal.jar
+\mods\setworldspawnpoint-1.19.3-3.1.jar
+\mods\shulkerdropstwo-1.19.3-3.1.jar
+\mods\SimpleRPC-forge-1.19-3.2.4.jar
+\mods\SimplyHouses-1.1.3-1.19.4-forge.jar
+\mods\simplyswords-forge-1.43.0-1.19.3.jar
+\mods\skeletonhorsespawn-1.19.3-3.6.jar
+\mods\smoothboot(reloaded)-mc1.19.3-0.0.3.jar
+\mods\soundphysics-forge-1.19.3-1.1.0.jar
+\mods\spark-1.10.37-forge.jar
+\mods\spidersproducewebs-1.19.3-3.1.jar
+\mods\starlight-1.1.1+forge.cf5b10b.jar
+\mods\Stellar View-1.19.3-0.1.5.jar
+\mods\Stoneworks-v5.0.0-1.19.3-Forge.jar
+\mods\structure_gel-1.19.3-2.9.0.jar
+\mods\StylishEffects-v5.0.0-1.19.3-Forge.jar
+\mods\suggestion-tweaker-1.19.1-1.5.1-forge.jar
+\mods\supermartijn642configlib-1.1.8-forge-mc1.19.jar
+\mods\supermartijn642corelib-1.1.16-forge-mc1.19.3.jar
+\mods\TaxFreeLevels-1.3.6-forge-1.20.2.jar
+\mods\tectonic-mod-mc1.19.3+-v2.1.1.jar
+\mods\TerraBlender-forge-1.19.3-2.1.0.153.jar
+\mods\Terralith_1.19.3_v2.3.12.jar
+\mods\TextruesRubidiumOptions-1.0.5-mc1.19.3.jar
+\mods\tia-1.19.3-1.0-forge.jar
+\mods\Tips-Forge-1.19.3-9.0.4.jar
+\mods\TipTheScales-forge-1.19.3-6.0.11.jar
+\mods\ToolStats-Forge-1.19.3-13.1.2.jar
+\mods\torchhit-1.19.3-6.0.1.2-forge.jar
+\mods\Towns-and-Towers-1.11.1-Fabric+Forge.jar
+\mods\trashslot-forge-1.19.3-13.0.1.jar
+\mods\TravelersBackpack-1.19.3-8.3.9.jar
+\mods\TravelersTitles-1.19.3-Forge-3.2.0.jar
+\mods\UniversalEnchants-v5.0.0-1.19.3-Forge.jar
+\mods\valhelsia_core-forge-1.19.3-0.5.1.jar
+\mods\valhelsia_structures-forge-1.19.3-1.1.0.jar
+\mods\voicechat-forge-1.19.3-2.4.11.jar
+\mods\WarriorRage-1.19.3-1.3.0.jar
+\mods\weaponmaster-multi-forge-1.19.3-3.0.5.jar
+\mods\witherstormmod-1.19.3-3.2.1.1.jar
+\mods\wso16-forge-1.1.jar
+\mods\Xaeros_Minimap_23.8.4_Forge_1.19.3.jar
+\mods\XaerosWorldMap_1.36.0_Forge_1.19.3.jar
+\mods\YungsApi-1.19.3-Forge-3.9.0.jar
+\mods\YungsBetterDesertTemples-1.19.3-Forge-2.3.0.jar
+\mods\YungsBetterDungeons-1.19.3-Forge-3.3.0.jar
+\mods\YungsBetterMineshafts-1.19.3-Forge-3.3.0.jar
+\mods\YungsBetterNetherFortresses-1.19.3-Forge-1.1.1.jar
+\mods\YungsBetterOceanMonuments-1.19.3-Forge-2.2.0.jar
+\mods\YungsBetterStrongholds-1.19.3-Forge-3.3.0.jar
+\mods\YungsExtras-1.19.3-Forge-3.2.0.jar
+\mods\[Universal]Immersive Structures-2.0.7a.jar
+\mods\[Universal]Immersive_Structure_Nether_v1.0.0b.jar
+\mods\aas-mod-1.19-v1.3.3.jar
+\mods\ActuallyUsefulSmithingTable-4.1.1.jar
+\mods\adaptive_performance_tweaks_core_1.19.3-7.5.1.jar
+\mods\adaptive_performance_tweaks_mods_1.19.3-7.1.2.jar
+\mods\AI-Improvements-1.19.2-0.5.2.jar
+\mods\alwaysawitherskull-1.19.3-3.0.jar
+\mods\AmbientEnvironment-forge-1.19.3-8.0+4.jar
+\mods\AmbientSounds_FORGE_v5.2.17_mc1.19.3.jar
+\mods\Amplified_Nether_1.19.3_v1.2.1.jar
+\mods\AnvilNeverTooExpensive-1.19-1.1.jar
+\mods\appleskin-forge-mc1.19-2.4.2.jar
+\mods\architectury-7.1.86-forge.jar
+\mods\armor_visibility-forge-1.19.4-7.0.0.jar
+\mods\armortrims-1.19.3-1.3.3.jar
+\mods\ash-forge-1.19.4-1.0.3.jar
+\mods\async-locator-forge-1.19.3-1.3.0.jar
+\mods\AttributeFix-Forge-1.19.3-18.0.2.jar
+\mods\AxesAreWeapons-1.7.1-forge-1.19.3.jar
+\mods\balm-forge-1.19.3-5.0.4.jar
+\mods\beautifiedchatclient-1.19.3-2.2.jar
+\mods\BetterAdvancements-1.19.3-0.3.1.153.jar
+\mods\BetterAnimationsCollection-v5.0.0-1.19.3-Forge.jar
+\mods\bettercombat-forge-1.7.1+1.19.3.jar
+\mods\bigbrain-1.19.3-1.6.3.jar
+\mods\biggerstacks-1.19.3-0.3-all.jar
+\mods\blasting-plus-1.1.jar
+\mods\book-of-experience-v3.0.0.jar
+\mods\Bookshelf-Forge-1.19.3-17.1.6.jar
+\mods\brain-over-brawn-0.jar
+\mods\BuriedWrecks-1.19.3-2.0.0.jar
+\mods\caelus-forge-1.19.4-3.0.0.10.jar
+\mods\calmmornings-1.19.3-2.0.2.jar
+\mods\canary-mc1.19.3-0.2.7.jar
+\mods\catalogue-1.7.0-1.19.3.jar
+\mods\charmofundying-forge-6.2.2+1.19.3.jar
+\mods\chickensshed-1.19.x-1.3.6.jar
+\mods\choicetheorems-overhauled-village-friends-and-foes-add-on-1.1.jar
+\mods\Chunky-1.3.53.jar
+\mods\ClearDespawn-forge-1.19.2-1.1.11.jar
+\mods\clienttweaks-forge-1.19.3-9.0.0.jar
+\mods\cloth-config-9.1.104-forge.jar
+\mods\Clumps-forge-1.19.3-9.0.0+16.jar
+\mods\collective-1.19.3-6.55.jar
+\mods\combatroll-forge-1.1.5+1.19.3.jar
+\mods\comforts-forge-6.1.2+1.19.3.jar
+\mods\configured-2.1.1-1.19.3.jar
+\mods\controllable-0.17.0-1.19.3.jar
+\mods\Controlling-forge-1.19.3-10.0+2.jar
+\mods\CorgiLib-forge-1.19.3-2.0.0.0.jar
+\mods\craftingtweaks-forge-1.19.3-16.0.2.jar
+\mods\CreativeCore_FORGE_v2.10.7_mc1.19.3.jar
+\mods\cristellib-forge-1.0.0.jar
+\mods\ctov-3.2.6a.jar
+\mods\curios-forge-1.19.3-5.1.4.1.jar
+\mods\DamageVignette-2.0.1-forge+mc1.19.x.jar
+\mods\deathbackup-1.19.3-3.0.jar
+\mods\defaultoptions-forge-1.19.3-16.0.2.jar
+\mods\DiaboloLib-5.6.30.jar
+\mods\DistantHorizons-1.6.10a-1.19.3.jar
+\mods\do-a-barrel-roll-2.6.2+1.19.3-forge.jar
+\mods\drippyloadingscreen_forge_2.2.2_MC_1.19.3.jar
+\mods\dungeons-and-taverns-2.0.2.jar
+\mods\DungeonsArise-1.19.3-2.1.54-beta.jar
+\mods\Durability101-forge-1.19.3-0.0.4.jar
+\mods\dynamic_player_progression_and_player_difficulty_1.19.3-4.1.0.jar
+\mods\dynamicassetgenerator-forge-1.19.3-3.0.2.jar
+\mods\dynamiccrosshair-5.7+1.19.3-forge.jar
+\mods\dynamiccrosshair-compat-3.1.1+1.19.3.jar
+\mods\e4mc-4.0.1+1.19.4-forge.jar
+\mods\EasyMagic-v5.0.1-1.19.3-Forge.jar
+\mods\edf-remastered-4.3.jar
+\mods\elytraslot-forge-6.2.0+1.19.3.jar
+\mods\Emojiful-Forge-1.19.3-4.1.2.jar
+\mods\EnchantmentDescriptions-Forge-1.19.3-14.0.7.jar
+\mods\enderite-upgrade-v5.jar
+\mods\endrem_forge-5.2.2-R-1.19.3.jar
 ```
