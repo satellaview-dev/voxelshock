@@ -1,5 +1,5 @@
 
-# Modlist (as of v1.7.2a)
+# Modlist (as of v1.8.2a)
 ```
 \mods\EnhancedNature-1.19.3-(v.1.1.0).jar
 \mods\entity_model_features_forge_1.19.3-1.0.2.jar
