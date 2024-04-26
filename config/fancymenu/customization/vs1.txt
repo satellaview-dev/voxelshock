@@ -48,11 +48,6 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = 209
   action = movebutton
@@ -82,6 +77,61 @@ customization {
 }
 
 customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-right
+  x = -103
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = element
+  orientation_element = 40f8da75-ae93-414c-afc5-b4d969cc97ae1695273311599
+  x = 40
+  action = movebutton
+  y = -33
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 141
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttonlabel
+  value = Singleplayer (&cUnsupported&f)
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttondescription
+  description = Singleplayer is &eextremely buggy&f. Playing with others is the intended experience.
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   action = hidebutton
 }
@@ -103,18 +153,11 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = mid-left
-  x = 62
+  orientation = element
+  orientation_element = 5d7f9e37-bc4d-401f-9873-b0e8f4899cad1689508305424
+  x = -100
   action = movebutton
-  y = -31
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = bottom-right
-  x = -160
-  action = movebutton
-  y = -200
+  y = 12
 }
 
 customization {
@@ -147,46 +190,12 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = 160
-  action = movebutton
-  y = 10
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  width = 141
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  action = setbuttonlabel
-  value = Singleplayer (Unsupported)
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  seconds = 1.0
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  orientation = mid-left
-  x = 62
+  orientation = element
+  orientation_element = 5d7f9e37-bc4d-401f-9873-b0e8f4899cad1689508305424
+  x = -100
   action = movebutton
-  y = 10
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  action = hidebutton
+  y = 68
 }
 
 customization {
@@ -291,27 +300,28 @@ customization {
   width = 320
   action = addtexture
   actionid = 5d7f9e37-bc4d-401f-9873-b0e8f4899cad1689508305424
-  y = -55
+  y = -50
   height = 100
 }
 
 customization {
-  orientation = top-centered
+  orientation = element
   enable_scrolling = false
-  shadow = false
-  scale = 2.5
-  source = v1.8.2b
+  shadow = true
+  scale = 2.0
+  source = &6v&f1.9&6b
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -320
+  orientation_element = 5d7f9e37-bc4d-401f-9873-b0e8f4899cad1689508305424
+  x = -161
   width = 640
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 4b5619a3-f6b4-4533-b1b4-f53708d0693a1689735813176
-  y = 64
+  y = -36
   alignment = centered
-  height = 51
+  height = 250
 }
 
 customization {
@@ -338,7 +348,7 @@ customization {
   auto_skin = false
   scale = 30
   showname = true
-  follow_mouse = false
+  follow_mouse = true
   capeurl = http://textures.minecraft.net/texture/f9a76537647989f9a0b6d001e320dac591c359e9e61a31f4ce11c88f207f0ad4
   action = custom_layout_element:fancymenu_customization_player_entity
   actionid = 8967037b-29ff-4685-b6c3-44f5ad6982b51695076288225
@@ -355,10 +365,10 @@ customization {
   skinurl = http://textures.minecraft.net/texture/803b46c610d3b459afa3266e327d6c2b33e6010456e8fa1fb4e9b3b94fa26e34
   crouching = false
   orientation_element = 587cd901-c979-426b-8d35-bf149ef71ddb1695076385045
-  x = -31
+  x = 149
   width = 18
   parrot_left_shoulder = false
-  y = -5
+  y = -10
   parrot = false
 }
 
@@ -372,27 +382,29 @@ customization {
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  x = -50
+  x = -158
   width = 100
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 587cd901-c979-426b-8d35-bf149ef71ddb1695076385045
-  y = -107
+  y = -169
   alignment = centered
   height = 40
 }
 
 customization {
   orientation = element
-  loopbackgroundanimations = true
   restartbackgroundanimations = true
-  orientation_element = 587cd901-c979-426b-8d35-bf149ef71ddb1695076385045
   buttonaction = joinserver;voxelshock.satellaview.dev%btnaction_splitter_fm%
-  x = 13
-  width = 75
+  description = &aStable&f! Wipes only on &9major version changes&f.
+  label = Join Live Server
+  loopbackgroundanimations = true
+  hoverlabel = Join Live Server!
+  orientation_element = 587cd901-c979-426b-8d35-bf149ef71ddb1695076385045
+  x = 5
+  width = 90
   action = addbutton
   actionid = 22f3e8f9-502a-48c7-aa95-2d0ada2f8bca1695076869767
-  y = -20
-  label = Join Server
+  y = -22
   height = 20
 }
 
@@ -410,40 +422,73 @@ customization {
   x = 250
   actionid = 9ea358f8-da4a-40a8-b0b0-f1e3feb757271695272730502
   action = addsplash
-  y = -47
+  y = -85
 }
 
 customization {
   orientation = bottom-centered
   loopbackgroundanimations = true
+  hoverlabel = Click to &9Join!
   restartbackgroundanimations = true
   buttonaction = openlink;https://discord.gg/hqyS4YpqSn%btnaction_splitter_fm%
-  x = -50
+  x = -110
   width = 100
   action = addbutton
   actionid = 40f8da75-ae93-414c-afc5-b4d969cc97ae1695273311599
-  y = -37
-  label = Discord Server
+  y = -39
+  label = §9Discord Server
   height = 20
 }
 
 customization {
   orientation = element
-  enable_scrolling = false
+  restartbackgroundanimations = true
+  buttonaction = joinserver;vxskstaging.satellaview.dev%btnaction_splitter_fm%
+  description = &cWarning&f: &6Unstable&f, and &6untested&f! &4WIPES OFTEN&f!
+  label = Join Staging Server
+  loopbackgroundanimations = true
+  hoverlabel = Join Staging Server!
+  orientation_element = 22f3e8f9-502a-48c7-aa95-2d0ada2f8bca1695076869767
+  x = 200
+  width = 106
+  action = addbutton
+  actionid = 936de56e-6949-4ad9-8d97-b21a4bf195d71703762319466
+  y = 0
+  height = 20
+}
+
+customization {
+  orientation = element
+  enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = {"placeholder":"servermotd","values":{"ip":"voxelshock.satellaview.dev:25565","line":"1"}}
+  source = {"placeholder":"serverstatus","values":{"ip":"vxskstaging.satellaview.dev"}}%n%{"placeholder":"serverplayercount","values":{"ip":"vxskstaging.satellaview.dev"}}%n%{"placeholder":"servermotd","values":{"ip":"vxskstaging.satellaview.dev","line":"1"}}
   text_border = 0
   case_mode = normal
   source_mode = direct
   line_spacing = 1
-  orientation_element = 22f3e8f9-502a-48c7-aa95-2d0ada2f8bca1695076869767
-  x = -114
-  width = 302
+  orientation_element = 936de56e-6949-4ad9-8d97-b21a4bf195d71703762319466
+  x = 3
+  width = 100
   action = custom_layout_element:fancymenu_customization_item_text
-  actionid = c3aa43fb-cab7-4f44-a53c-ccaa8618edbf1701734546837
-  y = -56
+  actionid = d74b4eae-b6d4-4ef9-88e3-698f490c1aa21703762377752
+  y = 22
   alignment = centered
-  height = 122
+  height = 40
+}
+
+customization {
+  orientation = element
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  orientation_element = 40f8da75-ae93-414c-afc5-b4d969cc97ae1695273311599
+  buttonaction = openlink;https://github.com/satellaview-dev/voxelshock/issues%btnaction_splitter_fm%
+  x = 120
+  width = 100
+  action = addbutton
+  actionid = 13dd7a30-0259-4d30-be42-c0fe6f36f24f1711187689993
+  y = 0
+  label = §6Report §cBugs
+  height = 20
 }
 

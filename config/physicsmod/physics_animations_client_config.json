@@ -95,9 +95,9 @@
       "Particle Spawn": [
         {
           "Type": "minecraft:poof",
-          "Amount": 6,
-          "Spread Radius": 0.8,
-          "Spawn Chance": 1.0,
+          "Amount": 2,
+          "Spread Radius": 0.85999995470047,
+          "Spawn Chance": 0.5,
           "Velocity X": 0.0,
           "Velocity Y": 0.0,
           "Velocity Z": 0.0,

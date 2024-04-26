@@ -24,15 +24,15 @@
     "sky_colors": true
   },
   "render_settings": {
-    "fog_distance": 33,
-    "fog_start": 100,
+    "fog_distance": 16,
+    "fog_start": 20,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
       "minecraft:overworld": 33,
       "minecraft:the_nether": 33,
       "minecraft:the_end": 33
     },
-    "use_linear_flat_color_blender": false,
+    "use_linear_flat_color_blender": true,
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
@@ -45,13 +45,13 @@
   },
   "extra_settings": {
     "overlay_corner": "BOTTOM_RIGHT",
-    "text_contrast": "SHADOW",
+    "text_contrast": "BACKGROUND",
     "show_fps": true,
     "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": true,
     "use_adaptive_sync": true,
-    "cloud_height": 192,
+    "cloud_height": 319,
     "toasts": true,
     "advancement_toast": true,
     "recipe_toast": true,

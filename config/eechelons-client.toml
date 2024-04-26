@@ -1,0 +1,21 @@
+
+[hud]
+	# The HUD x-offset.
+	#Range: -1000 ~ 1000
+	hudXOffset = 0
+	# The HUD y-offset.
+	#Range: -1000 ~ 1000
+	hudYOffset = 0
+	# The distance that the HUD can be seen from (in blocks).
+	#Range: 0 ~ 100
+	hudRange = 50
+	# Use dark theme HUD.
+	useDarkThemeHud = true
+	# Moves the Enemy Echelons HUD beside (to the left) of the WAILA HUD.
+	# This setting is ignored if hudXOffset or hudYOffset are set (not 0).
+	enableWailaIntegration = true
+	# Moves the Enemy Echelons HUD beside (to the left) of the Champions HUD.
+	# This setting will supercede enableWailaIntegration.
+	# This setting is ignored if hudXOffset or hudYOffset are set (not 0).
+	enableChampionsIntegration = true
+

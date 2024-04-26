@@ -3,7 +3,7 @@
   "xOffset": 0,
   "sneakXOffset": 0,
   "sitXOffset": 0,
-  "renderStuckFeatures": true,
+  "renderStuckFeatures": false,
   "vanillaHands": false,
   "doubleHands": false,
   "forceActive": false,

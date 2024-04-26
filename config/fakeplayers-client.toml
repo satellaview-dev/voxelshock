@@ -1,0 +1,5 @@
+
+["Configs for Duzo's Fake Players Mod"]
+	#Defines if you want to use a file instead of a link // IS CLIENT SIDE ONLY, WILL NOT SHOW FOR OTHERS!!!
+	"Does use files" = false
+

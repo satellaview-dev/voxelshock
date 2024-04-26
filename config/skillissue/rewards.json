@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "level": 1,
+      "level_step": 1,
+      "level_range": 140,
+      "on_level_up": true,
+      "on_respawn": false,
+      "on_login": false,
+      "is_volatile": false,
+      "level_inject": "<level>",
+      "commands": [
+        "tellraw @s {"text":"Current Level: <level>"}",
+        "tellraw @s ["",{"text":"You feel "},{"text":"Stronger!","color":"gold"}]"
+      ]
+    },
+    {
+      "level": 100,
+      "level_step": 1,
+      "level_range": 1,
+      "on_level_up": true,
+      "on_respawn": false,
+      "on_login": false,
+      "is_volatile": false,
+      "level_inject": "<level>",
+      "commands": [
+        "tellraw @s {"text":"Current Level: <level>"}",
+        "tellraw @s {"text":"How","color":"gold"}]"
+      ]
+    },
+    {
+      "level": 140,
+      "level_step": 1,
+      "level_range": 1,
+      "on_level_up": true,
+      "on_respawn": false,
+      "on_login": false,
+      "is_volatile": false,
+      "level_inject": "<level>",
+      "commands": [
+        "title @s subtitle \"Current Level: <level>\"",
+        "title @s title \"WHAT??? HOW???\""
+      ]
+    },
+    {
+      "level": 0,
+      "level_step": 1,
+      "level_range": 141,
+      "on_level_up": false,
+      "on_respawn": true,
+      "on_login": false,
+      "is_volatile": false,
+      "level_inject": "<level>",
+      "commands": [
+        "tellraw @s ["",{"text":"Current Level: "},{"text":"<level>","color":"dark_red"}]",
+        "tellraw @s ["",{"text":"You feel "},{"text":"weakened...","color":"dark_red"}]"
+      ]
+    },
+    {
+      "level": 0,
+      "level_step": 1,
+      "level_range": 140,
+      "on_level_up": false,
+      "on_respawn": false,
+      "on_login": true,
+      "is_volatile": false,
+      "level_inject": "<level>",
+      "commands": [
+        "tellraw @s {"text":"Current Level: <level>"}",
+        "tellraw @s {"text":"Where was I again?","bold":true}"
+      ]
+    }
+  ]
+}

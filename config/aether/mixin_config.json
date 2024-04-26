@@ -1,0 +1,8 @@
+{
+  "comment": "Disabling these is not advised unless necessary",
+  "com.gildedgames.aether.core.mixin.client.AdvancementToastMixin": true,
+  "com.gildedgames.aether.core.mixin.client.ElytraLayerMixin": true,
+  "com.gildedgames.aether.core.mixin.client.MinecraftMixin": true,
+  "com.gildedgames.aether.core.mixin.client.SplashManagerMixin": true,
+  "com.gildedgames.aether.core.mixin.client.TippableArrowRendererMixin": true
+}

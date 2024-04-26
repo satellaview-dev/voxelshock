@@ -1,0 +1,5 @@
+sleeveGloves:false
+haloEnabled:true
+haloColor:null
+developerGlowEnabled:false
+developerGlowColor:null

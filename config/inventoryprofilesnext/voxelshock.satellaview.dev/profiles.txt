@@ -2,19 +2,29 @@
 
 
 
-profile Saved activate HOT5
+profile Saved activate HOT6
 	HOT1
-		"minecraft:diamond_sword" -> "Enchantments" : [{id:"minecraft:smite",lvl:3},{id:"minecraft:sharpness",lvl:1}]
+		"actuallyusefulsmithingtable:quartz_sharpened_netherite_sword" -> "Enchantments" : [{id:"minecraft:smite",lvl:10},{id:"minecraft:sharpness",lvl:16},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1},{id:"minecraft:fire_aspect",lvl:2}]
 	HOT2
-		"minecraft:diamond_pickaxe"
+		"actuallyusefulsmithingtable:obsidian_plated_netherite_pickaxe" -> "Enchantments" : [{id:"minecraft:fortune",lvl:3},{id:"minecraft:mending",lvl:1}]
 	HOT3
-		"minecraft:iron_axe" -> "Enchantments" : [{id:"minecraft:sharpness",lvl:1}]
+		"minecraft:bow" -> "Enchantments" : [{id:"minecraft:power",lvl:7},{id:"minecraft:piercing",lvl:4},{id:"minecraft:mending",lvl:1}]
 	HOT4
-		"minecraft:lava_bucket"
+		"minecraft:netherite_helmet" -> "Enchantments" : [{id:"minecraft:fire_protection",lvl:3},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1},{id:"minecraft:protection",lvl:4},{id:"combatroll:multi_roll",lvl:4},{id:"feathers:lightweight",lvl:3}]
 	HOT5
-		"minecraft:blaze_spawn_egg"
+		"minecraft:diamond_helmet" -> "Enchantments" : [{id:"minecraft:fire_protection",lvl:2},{id:"minecraft:unbreaking",lvl:3}]
+	HOT7
+		"minecraft:firework_rocket"
+	HOT8
+		"majruszsdifficulty:bandage"
 	HOT9
 		"minecraft:cooked_salmon"
-	OFFHAND
-		"minecraft:torch"
+	HEAD
+		"minecraft:diamond_helmet" -> "Enchantments" : [{id:"combatroll:multi_roll",lvl:10},{id:"minecraft:protection",lvl:5}]
+	CHEST
+		"minecraft:netherite_chestplate" -> "Enchantments" : [{id:"minecraft:protection",lvl:4},{id:"minecraft:unbreaking",lvl:3},{id:"combatroll:acrobat",lvl:10},{id:"feathers:lightweight",lvl:3},{id:"minecraft:mending",lvl:1}]
+	LEGS
+		"minecraft:netherite_leggings" -> "Enchantments" : [{id:"minecraft:protection",lvl:4},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:mending",lvl:1},{id:"feathers:lightweight",lvl:3}]
+	FEET
+		"minecraft:netherite_boots" -> "Enchantments" : [{id:"feathers:lightweight",lvl:3},{id:"combatroll:longfooted",lvl:5},{id:"minecraft:mending",lvl:1},{id:"minecraft:unbreaking",lvl:3},{id:"minecraft:protection",lvl:4}]
 

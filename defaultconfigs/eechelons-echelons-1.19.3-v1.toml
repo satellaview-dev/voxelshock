@@ -1,0 +1,167 @@
+[[echelons]]
+	# list of dimension namedspaced IDs that this echelon applies to. ie. dimension whitelist
+	dimensions=["minecraft:overworld"]
+	# ## there are two types of modification - increment and factor. ##
+	# ## 	-increment is a fixed number that is added to the base attribute per level. ##
+	# ##	-factor is a percent of the base attribute that is added to the base attribute per level. ##
+	# ## all increment, factor and max values must include a decimal. ##
+
+	# increase hp by 20% of base per level
+	hpFactor=0.2
+
+	# increase damage by 20% of base, per level
+	damageFactor=0.2
+	# the total damage that can be attained/modified to
+	maxDamage=10.0
+
+	# increase armor by 10% of base, per level
+	armorFactor=0.1
+	# increase armor toughness by 10% of base, per level
+	armorToughnessFactor=1.0
+
+	# increase knockback by 0.2 per level
+	# note: the knockback attribute has a range of 0.0 - 5.0
+	knockbackIncrement=0.2
+
+	# increase knockback by 0.0 (ie turn off) per level
+	# note: the knockback resistence attribute has a range of 0.0 - 1.0 (0.0 = none or 0%, 1.0 = 100%)
+	knockbackResistIncrement=0.0
+
+	speedFactor=0.05
+	# the fastest speed that can be attained/modified to.
+	# note: speeds are in a range from 0.0 to 1.0
+	maxSpeed=0.35
+
+	# increase xp reward by 20% of base per level
+	# note: xp reward is rounded to a whole number, therefor not all level increments do not necessarily result in extra xp reward
+	# formula = round(baseXp * (1 + (level * factor)))
+	# example: zombie (default)=5 xp, level=1 --> 5 * (1 + (1 * 0.2)) = 6 xp;
+	# example: zombie=5xp, level=3 --> 5 * (1 + (3 * 0.2)) = 8 xp;
+	# example: zombie=5xp, level=3, factor = 0.1 --> 5 * (1 + (3 * 0.1)) = 6.5 xp = 7 xp (rounded);
+	# example: someWeakMob=1xp, level=1 --> 1 * (1 + (1 * 0.2)) = 1.2 xp = 1 xp (rounded);
+	xpFactor=0.2
+
+	# list of mobs that should not receive modification
+	mobBlacklist = ["minecraft:creeper"]
+	[[echelons.stratum]]
+		# the min y-value in the strata
+		min=60
+		# the max y-value in the strata
+		max=319
+		# the histogram is a list of level+weight pairs. the higher the weight, the more likely the corresponding level will be selected.
+		# note: levels are integers ie. no decimals. weights are doubles, requires decimals.
+		[[echelons.stratum.histogram]]
+			# level 0 = vanilla - ie. no modifications
+			level=0
+			weight=200.0
+		[[echelons.stratum.histogram]]
+			level=1
+			weight=100.0
+	[[echelons.stratum]]
+		min=30
+		max=59
+		[[echelons.stratum.histogram]]
+			level=0
+			weight=200.0
+		[[echelons.stratum.histogram]]
+			level=1
+			weight=150.0
+		[[echelons.stratum.histogram]]
+			level=2
+			weight=100.0
+	[[echelons.stratum]]
+		min=0
+		max=29
+		[[echelons.stratum.histogram]]
+			level=0
+			weight=100.0
+		[[echelons.stratum.histogram]]
+			level=1
+			weight=120.0
+		[[echelons.stratum.histogram]]
+			level=2
+			weight=200.0
+		[[echelons.stratum.histogram]]
+			level=3
+			weight=200.0
+	[[echelons.stratum]]
+		min=-30
+		max=-1
+		[[echelons.stratum.histogram]]
+			level=1
+			weight=80.0
+		[[echelons.stratum.histogram]]
+			level=2
+			weight=120.0
+		[[echelons.stratum.histogram]]
+			level=3
+			weight=200.0
+		[[echelons.stratum.histogram]]
+			level=4
+			weight=120.0
+	[[echelons.stratum]]
+		min=-64
+		max=-31
+		[[echelons.stratum.histogram]]
+			level=2
+			weight=80.0
+		[[echelons.stratum.histogram]]
+			level=3
+			weight=120.0
+		[[echelons.stratum.histogram]]
+			level=4
+			weight=200.0
+		[[echelons.stratum.histogram]]
+			level=5
+			weight=120.0
+
+# this echelon definition contains a whitelisted creeper, therefore this definition will only apply to creepers in the overworld.
+[[echelons]]
+	dimensions=["minecraft:overworld"]
+	mobWhitelist=["minecraft:creeper"]
+	hpFactor=0.25
+	knockbackResistIncrement=0.25
+	[[echelons.stratum]]
+		min=30
+		max=64
+		[[echelons.stratum.histogram]]
+			level=0
+			weight=100.0
+		[[echelons.stratum.histogram]]
+			level=1
+			weight=200.0
+	[[echelons.stratum]]
+		min=0
+		max=29
+		[[echelons.stratum.histogram]]
+			level=0
+			weight=50.0
+		[[echelons.stratum.histogram]]
+			level=1
+			weight=100.0
+		[[echelons.stratum.histogram]]
+			level=2
+			weight=100.0
+	[[echelons.stratum]]
+		min=-64
+		max=-1
+		[[echelons.stratum.histogram]]
+			level=0
+			weight=10.0
+		[[echelons.stratum.histogram]]
+			level=1
+			weight=100.0
+		[[echelons.stratum.histogram]]
+			level=2
+			weight=200.0
+# this is a catch-all echelon. this echelon will be used if a dimension isn't specified in another echelon
+# use "." or ".:." or "*" or "*:*" for the dimension
+[[echelons]]
+	dimensions=["."]
+	hpFactor=0.0
+	[[echelons.stratum]]
+		min=-64
+		max=319
+		[[echelons.stratum.histogram]]
+			level=0
+			weight=1.0

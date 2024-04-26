@@ -1,8 +1,0 @@
-#
-#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
-#
-waypoint:conservatory:C:1015:133:1095:2:false:0:gui.xaero_default:false:0:0:false
-waypoint:dingstorms base:D:54:239:-48:7:false:0:gui.xaero_default:false:0:0:false
-waypoint:destroyed mountain:D:42:69:105:4:false:0:gui.xaero_default:false:0:0:false
-waypoint:home:H:-228:80:375:3:false:0:gui.xaero_default:false:0:0:false
-waypoint:foundry:F:303:19:158:12:true:0:gui.xaero_default:false:0:0:false

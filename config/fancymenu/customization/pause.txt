@@ -23,7 +23,7 @@ customization {
   orientation = mid-centered
   x = -102
   action = movebutton
-  y = -13
+  y = -37
 }
 
 customization {
@@ -47,32 +47,32 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
   orientation = mid-centered
-  x = -102
+  x = -103
   action = movebutton
-  y = -59
+  y = -61
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
   orientation = mid-right
-  x = -422
+  x = -677
   action = movebutton
-  y = -36
+  y = -85
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
   orientation = top-centered
-  x = 4
+  x = 5
   action = movebutton
-  y = 121
+  y = 155
 }
 
 customization {
   identifier = %id=504330%
   orientation = top-centered
-  x = 4
+  x = 5
   action = movebutton
-  y = 144
+  y = 179
 }
 
